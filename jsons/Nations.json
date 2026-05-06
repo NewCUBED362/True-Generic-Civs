@@ -3,6 +3,11 @@
     "name": "Aduma",
     "leaderName": "John",
 
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
 	"outerColor": [27,53,63],
 	"innerColor": [213,249,255],
     "uniqueName": "True Generic Civ",
