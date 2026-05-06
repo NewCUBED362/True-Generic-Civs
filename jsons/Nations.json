@@ -58,5 +58,25 @@
     "cities": ["Sutu","Nedu","Femupasi","Bosu","Sicafe","Mufodo","Farabo","Betuti","Sadu",
 	           "Mimupa","Dusimi","Tucafeme","Rofode","Merabobo","Detu","Tedo","Raminetu","Masime"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Deco",
+    "leaderName": "Fausta",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+    "outerColor": [9, 112, 84],
+    "innerColor": [255,255,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Celocoba","Roqutula","Qabaro","Hoho","Ledutuho","Ceqaseqe","Leleqose","Seroqolse","Siqu",
+	           "Qecaseqe","Coqe","Sesili","Qededu","Lame","Caqu","Rocaroqi","Qalaqi","Basi"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
