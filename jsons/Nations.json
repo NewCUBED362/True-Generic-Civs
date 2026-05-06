@@ -17,6 +17,7 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Aduma","Boma","Sira","Mitumi","Dudu","Bemudo","Sasu","Mecate","Dofosabo",
 	           "Turapafe","Bepate","Satesa","Mido","Domi","Tuso","Robo","Mefebo","Depata"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
     "name": "Bedoro",
@@ -36,5 +37,6 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Bedoro","Pamimo","Fosi","Cecadu","Debone","Tefema","Ranefa","Fotace","Cedebefo",
 	           "Tamesuro","Pasa","Febomufa","Cafa","Sunedu","Neta","Fadetume","Bomesi","Siroraca"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
