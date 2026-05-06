@@ -72,8 +72,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-    "outerColor": [9, 112, 84],
-    "innerColor": [255,255,255],
+	"outerColor": [255, 252, 3],
+	"innerColor": [83, 0, 208],
     "uniqueName": "True Generic Civ",
     "cities": ["Celocoba","Roqutula","Qabaro","Hoho","Ledutuho","Ceqaseqe","Leleqose","Seroqolse","Siqu",
 	           "Qecaseqe","Coqe","Sesili","Qededu","Lame","Caqu","Rocaroqi","Qalaqi","Basi"],
