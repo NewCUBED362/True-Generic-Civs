@@ -17,5 +17,24 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Aduma","Boma","Sira","Mitumi","Dudu","Bemudo","Sasu","Mecate","Dofosabo",
 	           "Turapafe","Bepate","Satesa","Mido","Domi","Tuso","Robo","Mefebo","Depata"],
+  },
+  {
+    "name": "Bedomo",
+    "leaderName": "Jane",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Bedoro","Pamimo","Fosi","Cecadu","Debone","Tefema","Ranefa","Fotace","Cedebefo",
+	           "Tamesuro","Pasa","Febomufa","Cafa","Sunedu","Neta","Fadetume","Bomesi","Siroraca"],
   }
 ]
