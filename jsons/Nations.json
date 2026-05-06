@@ -38,5 +38,25 @@
     "cities": ["Bedoro","Pamimo","Fosi","Cecadu","Debone","Tefema","Ranefa","Fotace","Cedebefo",
 	           "Tamesuro","Pasa","Febomufa","Cafa","Sunedu","Neta","Fadetume","Bomesi","Siroraca"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Ceraca",
+    "leaderName": "Charlie",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+    "outerColor": [255, 255, 255],
+	"innerColor": [65, 141, 254],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Sutu","Nedu","Femupasi","Bosu","Sicafe","Mufodo","Farabo","Betuti","Sadu",
+	           "Mimupa","Dusimi","Tucafeme","Rofode","Merabobo","Detu","Tedo","Raminetu","Masime"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
