@@ -19,7 +19,7 @@
 	           "Turapafe","Bepate","Satesa","Mido","Domi","Tuso","Robo","Mefebo","Depata"],
   },
   {
-    "name": "Bedomo",
+    "name": "Bedoro",
     "leaderName": "Jane",
 
 	"declaringWar": "You leave us no choice. War it must be.",
@@ -31,8 +31,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [27,53,63],
-	"innerColor": [213,249,255],
+    "outerColor": [255, 255, 255],
+	"innerColor": [65, 141, 254],
     "uniqueName": "True Generic Civ",
     "cities": ["Bedoro","Pamimo","Fosi","Cecadu","Debone","Tefema","Ranefa","Fotace","Cedebefo",
 	           "Tamesuro","Pasa","Febomufa","Cafa","Sunedu","Neta","Fadetume","Bomesi","Siroraca"],
