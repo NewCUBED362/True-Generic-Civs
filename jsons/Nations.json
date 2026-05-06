@@ -3,6 +3,8 @@
     "name": "Aduma",
     "leaderName": "John",
 
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Aduma"],
   }
