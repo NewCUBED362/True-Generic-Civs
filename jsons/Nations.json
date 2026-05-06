@@ -8,6 +8,10 @@
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
 	"introduction": "We are pleased to meet you.",
 
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
 	"outerColor": [27,53,63],
 	"innerColor": [213,249,255],
     "uniqueName": "True Generic Civ",
