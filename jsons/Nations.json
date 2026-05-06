@@ -52,8 +52,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-    "outerColor": [255, 255, 255],
-	"innerColor": [65, 141, 254],
+    "outerColor": [9, 112, 84],
+    "innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Sutu","Nedu","Femupasi","Bosu","Sicafe","Mufodo","Farabo","Betuti","Sadu",
 	           "Mimupa","Dusimi","Tucafeme","Rofode","Merabobo","Detu","Tedo","Raminetu","Masime"],
