@@ -98,5 +98,25 @@
     "cities": ["Eluroqi","Coqu","Sibame","Qeqolqiqe","Liqadose","Cose","Deroleqa","Duquqi","Hoqutu",
 	           "Leqolhoqu","Loqi","Meqeseqa","Qaqadeta","Qeqa","Qime","Quloceco","Qaqol","Baduta"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Fosjum",
+    "leaderName": "Dunn",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [109, 2, 0],
+	"innerColor": [255, 255, 255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Sefuhase","Tumfimse","Befiboo","Befifu","Josjeefa","Fumtum","Eca","Befuseboo","Jojos",
+	           "Fube","Cafifim","Jitumbo","Fimcabe","Boofu","Tumjos","Bejobebe","Beji","Beejeeje"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
