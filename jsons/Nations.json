@@ -132,8 +132,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-    "outerColor": [ 38, 98, 255],
-    "innerColor": [239,236,148],
+	"outerColor": [239, 180, 0],
+	"innerColor": [0, 0, 0],
     "uniqueName": "True Generic Civ",
     "cities": ["Gulan Lakil","Lanbaralo","Banlan","Papamkil","La Doja","Jakil","Ba Loba","Lo Bapam","Koja",
 	           "Tapam","Kili","Lidojaba","Kilkilbakar","Gu Lita","Sabapara","Lija","Kilanlako","Bipamkipa"],
