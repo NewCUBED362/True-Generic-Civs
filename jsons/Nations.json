@@ -152,8 +152,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [239, 180, 0],
-	"innerColor": [0, 0, 0],
+	"outerColor": [70, 0, 118],
+	"innerColor": [240, 199, 0],
     "uniqueName": "True Generic Civ",
     "cities": ["Woceko","Paheja","Kinahak","Hawa","Wefo","Nojiti","Jipanek","Hawo","Wehahe",
 	           "Nekna","Jatif","Fofo","Tifji","Nanone","Hewo","Cohe","Tiko","Kotif"],
