@@ -138,5 +138,25 @@
     "cities": ["Gulan Lakil","Lanbaralo","Banlan","Papamkil","La Doja","Jakil","Ba Loba","Lo Bapam","Koja",
 	           "Tapam","Kili","Lidojaba","Kilkilbakar","Gu Lita","Sabapara","Lija","Kilanlako","Bipamkipa"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Hakpano",
+    "leaderName": "Toa",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [239, 180, 0],
+	"innerColor": [0, 0, 0],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Woceko","Paheja","Kinahak","Hawa","Wefo","Nojiti","Jipanek","Hawo","Wehahe",
+	           "Nekna","Jatif","Fofo","Tifji","Nanone","Hewo","Cohe","Tiko","Kotif"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
