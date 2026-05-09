@@ -172,8 +172,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [70, 0, 118],
-	"innerColor": [240, 199, 0],
+	"outerColor": [43, 88, 46],
+	"innerColor": [146, 221, 10],
     "uniqueName": "True Generic Civ",
     "cities": ["Zuca","Susaka","Cosuzo","Bebebwe","Zoka","Zucosu","Wewe","Kazulubasa","Bebwe",
 	           "Zoyasa","Suzi","Cobasasa","Basacozu","Zowe","Sakazulubabe","Casabisa","Babesazawe","Zawezawe"],
