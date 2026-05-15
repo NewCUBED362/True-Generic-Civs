@@ -11,6 +11,13 @@ NationIcons/Aduma
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Andoland
+  rotate: false
+  xy: 1246, 6
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Bedoro
   rotate: false
   xy: 142, 4
@@ -69,7 +76,7 @@ NationIcons/Ibiba
   index: -1
 NationIcons/Molga
   rotate: false
-  xy: 1246, 6
+  xy: 1382, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
