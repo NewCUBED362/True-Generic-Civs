@@ -253,8 +253,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [38, 181, 33],
-	"innerColor": [196, 255, 204],
+	"outerColor": [204, 198, 14],
+	"innerColor": [255, 255, 255],
     "uniqueName": "True Generic Civ",
     "cities": ["Roweila","Satwegen","Rumont","Esin","Celruange","Rucevil","Marfolmont","Dupellux","Belavigen",
 	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
