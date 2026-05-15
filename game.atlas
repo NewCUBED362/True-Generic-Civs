@@ -1,69 +1,76 @@
 
 game.png
-size: 512, 512
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Aduma
-  rotate: false
-  xy: 4, 280
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-NationIcons/Bedoro
-  rotate: false
-  xy: 4, 142
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-NationIcons/Ceraca
-  rotate: false
-  xy: 142, 280
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-NationIcons/Deco
   rotate: false
   xy: 4, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Eluroqi
-  rotate: false
-  xy: 142, 142
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-NationIcons/Fosjum
-  rotate: false
-  xy: 280, 280
-  size: 130, 130
-  orig: 130, 130
-  offset: 0, 0
-  index: -1
-NationIcons/Gulan
+NationIcons/Bedoro
   rotate: false
   xy: 142, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Ceraca
+  rotate: false
+  xy: 280, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+NationIcons/Deco
+  rotate: false
+  xy: 418, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+NationIcons/Eluroqi
+  rotate: false
+  xy: 556, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+NationIcons/Fosjum
+  rotate: false
+  xy: 694, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+NationIcons/Gulan
+  rotate: false
+  xy: 832, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
 NationIcons/Hakpano
   rotate: false
-  xy: 280, 142
+  xy: 970, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Ibiba
   rotate: false
-  xy: 280, 4
+  xy: 1108, 4
   size: 130, 130
   orig: 130, 130
+  offset: 0, 0
+  index: -1
+NationIcons/Molga
+  rotate: false
+  xy: 1246, 6
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
