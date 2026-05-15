@@ -239,5 +239,25 @@
     "cities": ["Vompunum","Fleapinna","Mavudunium","Nasen","Nasitumia","Cedip","Vorenia","Pu","Aqorudun",
 	           "Aqeron","Ceran","Vorudunce","Paronia","Ralan","Tu","Peapenia","Fleranna","Cedinum"],
     "spyNames": ["Mamidor","Vida","Octanotita","Gacisis","Clasudor","Velia","Cedius","Flava","Ceder"],
+  },
+  {
+    "name": "Pelvald", // Ufiud culture
+    "leaderName": "Aduno Toroo",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [38, 181, 33],
+	"innerColor": [196, 255, 204],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Vompunum","Fleapinna","Mavudunium","Nasen","Nasitumia","Cedip","Vorenia","Pu","Aqorudun",
+	           "Aqeron","Ceran","Vorudunce","Paronia","Ralan","Tu","Peapenia","Fleranna","Cedinum"],
+    "spyNames": ["Mamidor","Vida","Octanotita","Gacisis","Clasudor","Velia","Cedius","Flava","Ceder"],
   }
 ]
