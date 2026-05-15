@@ -233,8 +233,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [202, 20, 20],
-	"innerColor": [229, 118, 116],
+	"outerColor": [38, 181, 33],
+	"innerColor": [145, 196, 143],
     "uniqueName": "True Generic Civ",
     "cities": ["Vompunum","Fleapinna","Mavudunium","Nasen","Nasitumia","Cedip","Vorenia","Pu","Aqorudun",
 	           "Aqeron","Ceran","Vorudunce","Paronia","Ralan","Tu","Peapenia","Fleranna","Cedinum"],
