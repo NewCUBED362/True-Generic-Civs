@@ -74,9 +74,16 @@ NationIcons/Ibiba
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Molga
+NationIcons/Iflaviel
   rotate: false
   xy: 1382, 6
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Molga
+  rotate: false
+  xy: 1518, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
