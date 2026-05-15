@@ -199,5 +199,25 @@
     "cities": ["Vlasno","Sameli","Nizhpir","Kradov","Vazaky","Setro","Nosara","Sverung","Old Novo",
 	           "Madmovo","Vlazaky","Samininsk","New Novo","Krasno","Vlersk","Samochpol","Nadorod","Kaza"],
     "spyNames": ["Ivachy","Alechina","Senina","Olaitra","Dedeva","Vlechov","Vlela","Pachia","Necheva"],
+  },
+  {
+    "name": "Andoland", // Arimbe culture
+    "leaderName": "Oline Agenirevna",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [125, 236, 227],
+	"innerColor": [116, 163, 243],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Vlasno","Sameli","Nizhpir","Kradov","Vazaky","Setro","Nosara","Sverung","Old Novo",
+	           "Madmovo","Vlazaky","Samininsk","New Novo","Krasno","Vlersk","Samochpol","Nadorod","Kaza"],
+    "spyNames": ["Ivachy","Alechina","Senina","Olaitra","Dedeva","Vlechov","Vlela","Pachia","Necheva"],
   }
 ]
