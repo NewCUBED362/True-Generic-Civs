@@ -181,8 +181,8 @@
   },
 	// Worldbox Original Names
   {
-    "name": "Molga",
-    "leaderName": "Day",
+    "name": "Molga", // Krinywy culture
+    "leaderName": "Olina",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
@@ -198,6 +198,6 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Zuca","Susaka","Cosuzo","Bebebwe","Zoka","Zucosu","Wewe","Kazulubasa","Bebwe",
 	           "Zoyasa","Suzi","Cobasasa","Basacozu","Zowe","Sakazulubabe","Casabisa","Babesazawe","Zawezawe"],
-    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+    "spyNames": ["Ivachy","Alechina","Senina","Olaitra","Dedeva","Vlechov","Vlela","Pachia","Necheva"],
   }
 ]
