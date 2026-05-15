@@ -222,7 +222,7 @@
   },
   {
     "name": "Iflaviel", // Hechfurt culture
-    "leaderName": "Allegara Owortih",
+    "leaderName": "Adunor Owortih",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
@@ -238,6 +238,6 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Ewoon","Ohule","Furd","Acrodge","Wrefod","Werntold","Oilydge","Hiwbrood","Cruft",
 	           "Wrenohumbe","Westowoon","Fiud","Afok","Wrerncron","Harst","Edard","Cull","Woeshibroole"],
-    "spyNames": ["Ar","Ydnora","Ilbrya","Hedde","Deoden","Osubrya","Ernawin","Edi","Allora"],
+    "spyNames": ["Mamidor","Vida","Octanotita","Gacisis","Clasudor","Velia","Cedius","Flava","Ceder"],
   }
 ]
