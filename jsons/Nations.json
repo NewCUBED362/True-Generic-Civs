@@ -216,8 +216,8 @@
 	"outerColor": [125, 236, 227],
 	"innerColor": [116, 163, 243],
     "uniqueName": "True Generic Civ",
-    "cities": ["Vlasno","Sameli","Nizhpir","Kradov","Vazaky","Setro","Nosara","Sverung","Old Novo",
-	           "Madmovo","Vlazaky","Samininsk","New Novo","Krasno","Vlersk","Samochpol","Nadorod","Kaza"],
+    "cities": ["Ewoon","Ohule","Furd","Acrodge","Wrefod","Werntold","Oilydge","Hiwbrood","Cruft",
+	           "Wrenohumbe","Westowoon","Fiud","Afok","Wrerncron","Harst","Edard","Cull","Woeshibroole"],
     "spyNames": ["Ar","Ydnora","Ilbrya","Hedde","Deoden","Osubrya","Ernawin","Edi","Allora"],
   }
 ]
