@@ -242,7 +242,7 @@
   },
   {
     "name": "Pelvald", // Ufiud culture
-    "leaderName": "Aduno Toroo",
+    "leaderName": "Berean Toroo",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
@@ -258,6 +258,6 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Vompunum","Fleapinna","Mavudunium","Nasen","Nasitumia","Cedip","Vorenia","Pu","Aqorudun",
 	           "Aqeron","Ceran","Vorudunce","Paronia","Ralan","Tu","Peapenia","Fleranna","Cedinum"],
-    "spyNames": ["Mamidor","Vida","Octanotita","Gacisis","Clasudor","Velia","Cedius","Flava","Ceder"],
+    "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
   }
 ]
