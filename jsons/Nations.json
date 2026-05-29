@@ -354,8 +354,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [255, 255, 255],
-	"innerColor": [74, 117, 120],
+	"outerColor": [22, 242, 202],
+	"innerColor": [16, 16, 16],
     "uniqueName": "True Generic Civ",
     "cities": ["Pokopi","Tamahya","Hano","Lamahaya","Fred Bay","Spelno","Whitemouth","Tuitui","Kupana",
 	           "Gross Red Fish","Monana","Banana Bay","Fetomai","Mamatama"],
