@@ -340,5 +340,25 @@
     "cities": ["Rontovic","Azmin","Mursk","Yobomoy","Rindograd","Duvala","Smirk","Kapya","Molotabinya",
 		       "Sinye","Pupova","Rudba","Kazaya","Nobey"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Kukunesia",
+    "leaderName": "Layla",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [255, 255, 255],
+	"innerColor": [74, 117, 120],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Pokopi","Tamahya","Hano","Lamahaya","Fred Bay","Spelno","Whitemouth","Tuitui","Kupana",
+	           "Gross Red Fish","Monana","Banana Bay","Fetomai","Mamatama"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
