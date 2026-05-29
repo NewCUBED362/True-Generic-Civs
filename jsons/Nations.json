@@ -334,8 +334,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [204, 2, 177],
-	"innerColor": [130, 13, 72],
+	"outerColor": [255, 255, 255],
+	"innerColor": [74, 117, 120],
     "uniqueName": "True Generic Civ",
     "cities": ["Rontovic","Azmin","Mursk","Yobomoy","Rindograd","Duvala","Smirk","Kapya","Molotabinya",
 		       "Sinye","Pupova","Rudba","Kazaya","Nobey"],
