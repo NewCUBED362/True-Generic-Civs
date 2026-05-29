@@ -180,8 +180,8 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
-    "name": "Mossburra",
-    "leaderName": "Ethon Turry",
+    "name": "The Rudens",
+    "leaderName": "Jesen",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
@@ -195,8 +195,8 @@
 	"outerColor": [43, 88, 46],
 	"innerColor": [146, 221, 10],
     "uniqueName": "True Generic Civ",
-    "cities": ["Mossburra","Cadura","Impol","Tumurra","Port Ethon","Mosban","Itamory","Sulkin","Mardinoss",
-		       "Wurramay","Tinbura","Portcity","Ethonia","Patrick","Zack"],
+	"uniques": ["\"Borrows\" city names from other civilizations in the game"]
+    "cities": ["Jesen's Court"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
 	// Worldbox Original Names
