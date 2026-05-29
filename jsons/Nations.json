@@ -279,5 +279,26 @@
     "cities": ["Roweila","Satwegen","Rumont","Esin","Celruange","Rucevil","Marfolmont","Dupellux","Belavigen",
 	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
     "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
+  },
+	// Other
+  {
+    "name": "Mossburra",
+    "leaderName": "Ethon Turry",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [43, 88, 46],
+	"innerColor": [146, 221, 10],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Mossburra","Cadura","Impol","Tumurra","Port Ethon","Mosban","Itamory","Sulkin","Mardinoss",
+		       "Wurramay","Tinbura","Portcity","Ethonia","Patrick","Zack"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
