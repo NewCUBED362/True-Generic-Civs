@@ -294,8 +294,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [43, 88, 46],
-	"innerColor": [146, 221, 10],
+	"outerColor": [224, 25, 25],
+	"innerColor": [117, 115, 115],
     "uniqueName": "True Generic Civ",
     "cities": ["Mossburra","Cadura","Impol","Tumurra","Port Ethon","Mosban","Itamory","Sulkin","Mardinoss",
 		       "Wurramay","Tinbura","Portcity","Ethonia","Patrick","Zack"],
