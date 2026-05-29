@@ -314,8 +314,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [224, 25, 25],
-	"innerColor": [117, 115, 115],
+	"outerColor": [204, 2, 177],
+	"innerColor": [130, 13, 72],
     "uniqueName": "True Generic Civ",
     "cities": ["Central City","Fort Turbulence","Umalu","Sosami","Nobnib","Pufflaba","Paylow Town",
 		       "Spink","Fort Poffmei","Poramussi","Asinka","Waves"],
