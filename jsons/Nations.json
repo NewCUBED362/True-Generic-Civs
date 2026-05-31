@@ -360,5 +360,25 @@
     "cities": ["Pokopi","Tamahya","Hano","Lamahaya","Fred Bay","Spelno","Whitemouth","Tuitui","Kupana",
 	           "Gross Red Fish","Monana","Banana Bay","Fetomai","Mamatama"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Burgan",
+    "leaderName": "Chrees Hoddenban",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [22, 242, 202],
+	"innerColor": [16, 16, 16],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Morg","Turten","Dollahoft","Ebden","Stoba","Yurdenhoft","Gellengoda","Tyod",
+		       "New Miyeg","Dodenburg","Worstenfall","Obadeen","Yofahoft","Leeden"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
