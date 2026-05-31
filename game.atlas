@@ -13,7 +13,7 @@ NationIcons/Aduma
   index: -1
 NationIcons/Andoland
   rotate: false
-  xy: 556, 144
+  xy: 694, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -25,93 +25,100 @@ NationIcons/Bedoro
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Ceraca
+NationIcons/Burgan
   rotate: false
   xy: 142, 280
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Deco
+NationIcons/Ceraca
   rotate: false
   xy: 4, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Eluroqi
+NationIcons/Deco
   rotate: false
   xy: 142, 142
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Fosjum
+NationIcons/Eluroqi
   rotate: false
   xy: 280, 280
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Gulan
+NationIcons/Fosjum
   rotate: false
   xy: 142, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Hakpano
+NationIcons/Gulan
   rotate: false
   xy: 280, 142
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Ibiba
+NationIcons/Hakpano
   rotate: false
   xy: 418, 280
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Iflaviel
-  rotate: false
-  xy: 694, 282
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-NationIcons/Jabinta
+NationIcons/Ibiba
   rotate: false
   xy: 280, 4
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Kazmotamya
+NationIcons/Iflaviel
+  rotate: false
+  xy: 556, 6
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Jabinta
   rotate: false
   xy: 418, 142
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Kukunesia
+NationIcons/Kazmotamya
   rotate: false
   xy: 556, 280
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Kukunesia
+  rotate: false
+  xy: 418, 4
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
 NationIcons/Molga
   rotate: false
-  xy: 556, 8
+  xy: 694, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Mossburra
   rotate: false
-  xy: 418, 4
+  xy: 556, 142
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
