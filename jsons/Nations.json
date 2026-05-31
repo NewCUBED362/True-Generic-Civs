@@ -374,8 +374,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [22, 242, 202],
-	"innerColor": [16, 16, 16],
+	"outerColor": [120, 61, 2],
+	"innerColor": [255, 255, 255],
     "uniqueName": "True Generic Civ",
     "cities": ["Morg","Turten","Dollahoft","Ebden","Stoba","Yurdenhoft","Gellengoda","Tyod",
 		       "New Miyeg","Dodenburg","Worstenfall","Obadeen","Yofahoft","Leeden"],
