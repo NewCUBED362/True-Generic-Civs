@@ -382,7 +382,7 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
-    "name": "Temp",
+    "name": "Rodgradia",
     "leaderName": "Marfa Filippova",
 
 	"declaringWar": "You leave us no choice. War it must be.",
@@ -397,7 +397,8 @@
 	"outerColor": [120, 61, 2],
 	"innerColor": [255, 255, 255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Temp"],
+    "cities": ["Rodov","Ladgorod","Saint Bezitsa","Totyar","Radsk","Kapino","Berezgrad","Sukensk","Nadograd",
+		       "Vovsk","Zareinsk","Belino","Tarpol","Naggorod","Gibislav","Zuvsk","Sysevsk"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
