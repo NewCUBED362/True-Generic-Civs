@@ -380,5 +380,24 @@
     "cities": ["Morg","Turten","Dollahoft","Ebden","Stoba","Yurdenhoft","Gellengoda","Tyod",
 		       "New Miyeg","Dodenburg","Worstenfall","Obadeen","Yofahoft","Leeden"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Temp",
+    "leaderName": "Marfa Filippova",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [120, 61, 2],
+	"innerColor": [255, 255, 255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Temp"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
