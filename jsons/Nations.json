@@ -294,7 +294,7 @@
 	"hateHello": "What?",
 	"tradeRequest": "Here, deal with me.",
 
-	"outerColor": [224, 25, 25],
+	"outerColor": [255, 255, 255],
 	"innerColor": [117, 115, 115],
     "uniqueName": "True Generic Civ",
     "cities": ["Mossburra","Cadura","Impol","Tumurra","Port Ethon","Mosban","Itamory","Sulkin","Mardinoss",
@@ -315,7 +315,7 @@
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
 	"outerColor": [204, 2, 177],
-	"innerColor": [130, 13, 72],
+	"innerColor": [0, 0, 0],
     "uniqueName": "True Generic Civ",
     "cities": ["Central City","Fort Turbulence","Umalu","Sosami","Nobnib","Pufflaba","Paylow Town",
 		       "Spink","Fort Poffmei","Poramussi","Asinka","Waves"],
@@ -365,10 +365,10 @@
     "name": "Burgan",
     "leaderName": "Chrees Hoddenban",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
+	"declaringWar": "Your defiance has exhausted our patience. The legions of Burgan march. Prepare for annihilation.",
+	"attacked": "You dare challenge us? Then let the world witness the price of your arrogance.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you.",
+	"introduction": "I am Chrees Hoddenban, sovereign of Burgan. Our banners have crossed deserts and mountains alike. See that you give them the respect they deserve.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
