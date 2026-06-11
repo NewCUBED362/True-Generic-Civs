@@ -405,10 +405,10 @@
     "name": "Netolania",
     "leaderName": "Bohunka Matějka",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you.",
+	"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
+	"attacked": "Your treachery is noted. We shall remember this.",
+	"defeated": "Though we fall, our spirit remains unbroken. History will remember Netolania.",
+	"introduction": "Well met. I am Bohunka. Let us see if our interests align.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
