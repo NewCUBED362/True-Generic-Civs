@@ -414,8 +414,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [109, 0, 205],
-	"innerColor": [234, 225, 157],
+	"outerColor": [255, 255, 255],
+	"innerColor": [202, 20, 20],
     "uniqueName": "True Generic Civ",
     "cities": ["Cerveneyburg","Turenya","Peskap","Pták","Mioka","Bersnon Town","Whitley","Kisisek","Lashat",
 		       "Spinaburg","Cronslev","Sorry","Uncyom","Pestráva","Ashtonley","Townsburg","Lyon","Griffithsburg",
