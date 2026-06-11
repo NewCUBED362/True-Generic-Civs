@@ -441,5 +441,25 @@
     "cities": ["Honera","Yipsin","Epilisi","Glassville","Cursor","Lilinja","Honyota",
 		       "Cashmin","Magyorin","Teals","Juggler Bay","Sook","Toyomi","Seondija","Jindaya","Smoroke","Seeram"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Mertangale",
+    "leaderName": "Leopold Thorne",
+
+	"declaringWar": "After careful analysis, we have concluded that conflict is the only remaining variable. War is now inevitable.",
+	"attacked": "An unfortunate decision. Underestimating us has rarely yielded favorable results.",
+	"defeated": "You may claim victory over our nation, but ideas cannot be conquered so easily.",
+	"introduction": "I welcome you in the name of Busanya. Through observation, inquiry, and innovation, we seek to illuminate the unknown.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "An exchange of resources benefits all rational participants. Shall we proceed?",
+
+	"outerColor": [202, 20, 20],
+	"innerColor": [116, 163, 243],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Whitemouth","Arminton","Gallingo","Port Starmer","Dement","Serbtan","Colossus","Turinvale",
+		       "Finnsberg","Port Arthur","Richmont","Calasgow","New Romale","Certon","Rafville","Midas"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
