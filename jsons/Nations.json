@@ -292,7 +292,7 @@
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+	"tradeRequest": "Here, deal with me.",
 
 	"outerColor": [224, 25, 25],
 	"innerColor": [117, 115, 115],
@@ -311,7 +311,7 @@
 	"introduction": "We are pleased to meet you.",
 
 	"neutralHello": "Hello.",
-	"hateHello": "What?",
+	"hateHello": "Piss off!",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
 	"outerColor": [204, 2, 177],
@@ -352,7 +352,7 @@
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+	"tradeRequest": "Here, deal with me.",
 
 	"outerColor": [22, 242, 202],
 	"innerColor": [16, 16, 16],
@@ -385,14 +385,14 @@
     "name": "Rodgradia",
     "leaderName": "Marfa Filippova",
 
-	"declaringWar": "You leave us no choice. War it must be.",
+	"declaringWar": "We seek no quarrel, but your arrogance leaves us no alternative.",
 	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you.",
+	"defeated": "You have bested us today. We concede, but not in despair.",
+	"introduction": "I am Marfa Filippova of Rodgradia. May our nations find friendship or, failing that, clarity in conflict.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+	"tradeRequest": "Here, deal with me.",
 
 	"outerColor": [109, 0, 205],
 	"innerColor": [234, 225, 157],
