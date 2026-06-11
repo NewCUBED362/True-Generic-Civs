@@ -400,5 +400,26 @@
     "cities": ["Rodov","Ladgorod","Saint Bezitsa","Totyar","Radsk","Kapino","Berezgrad","Sukensk","Nadograd",
 		       "Vovsk","Zareinsk","Belino","Tarpol","Naggorod","Gibislav","Zuvsk","Sysevsk"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Netolania",
+    "leaderName": "Bohunka Matějka",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [109, 0, 205],
+	"innerColor": [234, 225, 157],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Cerveneyburg","Turenya","Peskap","Pták","Mioka","Bersnon Town","Whitley","Kisisek","Lashat",
+		       "Spinaburg","Cronslev","Sorry","Uncyom","Pestráva","Ashtonley","Townsburg","Lyon","Griffithsburg",
+	           "Loud Bird","Port Válka","Urmoam","Jeskyně"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
