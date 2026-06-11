@@ -435,8 +435,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [255, 255, 255],
-	"innerColor": [202, 20, 20],
+	"outerColor": [202, 20, 20],
+	"innerColor": [116, 163, 243],
     "uniqueName": "True Generic Civ",
     "cities": ["Honera","Yipsin","Epilisi","Glassville","Cursor","Lilinja","Honyota",
 		       "Cashmin","Magyorin","Teals","Juggler Bay","Sook","Toyomi","Seondija","Jindaya","Smoroke","Seeram"],
