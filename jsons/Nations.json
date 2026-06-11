@@ -421,5 +421,25 @@
 		       "Spinaburg","Cronslev","Sorry","Uncyom","Pestráva","Ashtonley","Townsburg","Lyon","Griffithsburg",
 	           "Loud Bird","Port Válka","Urmoam","Jeskyně"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Busanya",
+    "leaderName": "Sung-jin Yun",
+
+	"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
+	"attacked": "Your treachery is noted. We shall remember this.",
+	"defeated": "Though we fall, our spirit remains unbroken. History will remember Netolania.",
+	"introduction": "Well met. I am Bohunka. Let us see if our interests align.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [255, 255, 255],
+	"innerColor": [202, 20, 20],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Honera","Yipsin","Epilisi","Glassville","Cursor","Lilinja","Honyota",
+		       "Cashmin","Magyorin","Teals","Juggler Bay","Sook","Toyomi","Seondija","Jindaya","Smoroke","Seeram"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
