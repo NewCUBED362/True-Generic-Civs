@@ -280,6 +280,25 @@
 	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
     "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
   },
+    "name": "Noron", // Other culture
+    "leaderName": "Berean de Deroschdorh",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [204, 198, 14],
+	"innerColor": [255, 255, 255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Roweila","Satwegen","Rumont","Esin","Celruange","Rucevil","Marfolmont","Dupellux","Belavigen",
+	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
+    "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
+  },
 	// Other
   {
     "name": "Mossburra",
