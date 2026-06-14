@@ -497,8 +497,7 @@
 	"outerColor": [27,53,63],
 	"innerColor": [213,249,255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Aduma","Boma","Sira","Mitumi","Dudu","Bemudo","Sasu","Mecate","Dofosabo",
-	           "Turapafe","Bepate","Satesa","Mido","Domi","Tuso","Robo","Mefebo","Depata"],
+    "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
