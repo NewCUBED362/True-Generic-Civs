@@ -485,14 +485,14 @@
     "name": "Gethousia",
     "leaderName": "Carmen Wallace",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you.",
-
-	"neutralHello": "Hello.",
-	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+        "declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "You've fallen into my trap. I'll bury you.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome. I'm Napoleon, of France; the smartest military man in world history.",
+	  
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "France offers you this exceptional proposition.",,
 
 	"outerColor": [27,53,63],
 	"innerColor": [213,249,255],
