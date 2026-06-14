@@ -497,7 +497,8 @@
 	"outerColor": [27,53,63],
 	"innerColor": [213,249,255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria"],
+    "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria","Chagos","Slora","Egovale","Old Ingling","Lower Bomsea","New Ingling","Upper Bomsea","Gleland","Peuport",
+	           "Gogas"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
