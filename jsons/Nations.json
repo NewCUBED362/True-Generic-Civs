@@ -280,6 +280,7 @@
 	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
     "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
   },
+	{
     "name": "Noron", // Other culture
     "leaderName": "Tolfer de Clautfleur",
 
@@ -299,6 +300,7 @@
 	           "Rodon","Lein","Dosur","Weange","Rafon","Rodorph","Lelux","Dostirmont","Zecort"],
     "spyNames": ["Reon","Loruik","Fereon","Alimond","Oskuia","Lauel","Eleald","Zinuwen","Olyora"],
   },
+	
 	// Other
   {
     "name": "Mossburra",
