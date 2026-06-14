@@ -560,7 +560,7 @@
 	"outerColor": [125, 236, 227],
 	"innerColor": [120, 0, 0],
     "uniqueName": "True Generic Civ",
-    "cities": ["Tepocan","Mazatl","Xolco","Atzala","Tenochi","Iztapa","Cuetla","Acolan","Xochan","Mixco","Tlalco","Cozala"],
+    "cities": ["Xocoyapan","Atzacualco","Xolco","Iztemecan","Tenochi","Tlacotzinco","Cuetla","Quetzalhuacan","Xochan","Mixco","Tlalco","Cozala"],
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
   },
 ]
