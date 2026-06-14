@@ -526,22 +526,22 @@
   },
   {
     "name": "Qadira", // Iraqi
-    "leaderName": "Bob",
+    "leaderName": "Latif Kazem",
 
     "declaringWar": "You're disturbing us, prepare for war.",
 	"attacked": "You've fallen into my trap. I'll bury you.",
 	"defeated": "I congratulate you for your victory.",
-	"introduction": "Welcome. I'm Jung-hee, of Hyeonsang; the smartest military woman in world history.",
+	"introduction": "Welcome. I'm Latif Kazem, of Qadira; the smartest military man in world history.",
 	  
 	"neutralHello": "Hello.",
 	"hateHello": "It's you.",
-	"tradeRequest": "Hyeonsang offers you this exceptional proposition.",
+	"tradeRequest": "Qadira offers you this exceptional proposition.",
 
 	"outerColor": [116, 163, 243],
 	"innerColor": [202, 20, 20],
     "uniqueName": "True Generic Civ",
     "cities": ["Zubaphon","Qurma","Muqdallah","Amalujah","Tel Ubaimarra","Khanaqin","Al-Qugash","Najayji","Tel Kibair","As Samabair","Tall Kuthah",
 	           "Falluna","Al-Shaji","Haqlahok","Amadin","Balanah","Al Hillarra","Hermolem","Nilad","Tall Iskamer","Balayji","Nuzibja","Samatra","An Rahok"],
-    "spyNames": ["Jae-Hwan","Myong-ok","Hanuel","Hyo-joo","Dong-jun","Eun","Ju-Hyun","Sang-eun","Sang","Hayun","Hwan","Eunji"],
+    "spyNames": ["Ahmed","Aali","Abeer","Djamel","Fadi","Farah","Fawzi","Hasan","Ikraam","Jafar","Majeed","Munira","Nadir"],
   }
 ]
