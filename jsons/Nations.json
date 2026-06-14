@@ -517,8 +517,8 @@
 	"hateHello": "It's you.",
 	"tradeRequest": "Hyeonsang offers you this exceptional proposition.",
 
-	"outerColor": [255, 255, 255],
-	"innerColor": [1, 42, 108],
+	"outerColor": [116, 163, 243],
+	"innerColor": [202, 20, 20],
     "uniqueName": "True Generic Civ",
     "cities": ["Sinuijin","Sundong","Congneung","Yanghung","Gangcheon","Samgye","Sunyong","Gyerseong","Gangcheok","Rageup","Gyerje","Sinje",
 		       "Gwangsu","Congnan","Tanhung","Sokneung","Namcheon","Kangnan","Mungdong","Uihae"],
