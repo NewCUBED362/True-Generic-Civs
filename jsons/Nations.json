@@ -494,8 +494,8 @@
 	"hateHello": "It's you.",
 	"tradeRequest": "Gethousia offers you this exceptional proposition.",
 
-	"outerColor": [27,53,63],
-	"innerColor": [213,249,255],
+	"outerColor": [255, 255, 255],
+	"innerColor": [1, 42, 108],
     "uniqueName": "True Generic Civ",
     "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria","Chagos","Slora","Egovale","Old Ingling","Lower Bomsea","New Ingling","Upper Bomsea","Gleland","Peuport",
 	           "Gogas","Entopool","Insas","Gark","Efrork","Ashares","Fettin","Flomtin","Pluhledo","Dracester","Oredo"],
