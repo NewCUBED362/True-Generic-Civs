@@ -523,5 +523,25 @@
     "cities": ["Sinuijin","Sundong","Congneung","Yanghung","Gangcheon","Samgye","Sunyong","Gyerseong","Gangcheok","Rageup","Gyerje","Sinje",
 		       "Gwangsu","Congnan","Tanhung","Sokneung","Namcheon","Kangnan","Mungdong","Uihae"],
     "spyNames": ["Jae-Hwan","Myong-ok","Hanuel","Hyo-joo","Dong-jun","Eun","Ju-Hyun","Sang-eun","Sang","Hayun","Hwan","Eunji"],
+  },
+  {
+    "name": "Qadira", // Iraqi
+    "leaderName": "Bob",
+
+    "declaringWar": "You're disturbing us, prepare for war.",
+	"attacked": "You've fallen into my trap. I'll bury you.",
+	"defeated": "I congratulate you for your victory.",
+	"introduction": "Welcome. I'm Jung-hee, of Hyeonsang; the smartest military woman in world history.",
+	  
+	"neutralHello": "Hello.",
+	"hateHello": "It's you.",
+	"tradeRequest": "Hyeonsang offers you this exceptional proposition.",
+
+	"outerColor": [116, 163, 243],
+	"innerColor": [202, 20, 20],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Sinuijin","Sundong","Congneung","Yanghung","Gangcheon","Samgye","Sunyong","Gyerseong","Gangcheok","Rageup","Gyerje","Sinje",
+		       "Gwangsu","Congnan","Tanhung","Sokneung","Namcheon","Kangnan","Mungdong","Uihae"],
+    "spyNames": ["Jae-Hwan","Myong-ok","Hanuel","Hyo-joo","Dong-jun","Eun","Ju-Hyun","Sang-eun","Sang","Hayun","Hwan","Eunji"],
   }
 ]
