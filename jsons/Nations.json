@@ -557,8 +557,8 @@
 	"hateHello": "It's you.",
 	"tradeRequest": "Cuauhtlan offers you this exceptional proposition.",
 
-	"outerColor": [116, 163, 243],
-	"innerColor": [202, 20, 20],
+	"outerColor": [125, 236, 227],
+	"innerColor": [120, 0, 0],
     "uniqueName": "True Generic Civ",
     "cities": ["Tepocan","Mazatl","Xolco","Atzala","Tenochi","Iztapa","Cuetla","Acolan","Xochan","Mixco","Tlalco","Cozala"],
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
