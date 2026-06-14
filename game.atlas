@@ -67,6 +67,13 @@ NationIcons/Fosjum
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Gethousia
+  rotate: false
+  xy: 832, 282
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Gulan
   rotate: false
   xy: 280, 142
@@ -81,6 +88,13 @@ NationIcons/Hakpano
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Hyeonsang
+  rotate: false
+  xy: 968, 282
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Ibiba
   rotate: false
   xy: 280, 4
@@ -90,7 +104,7 @@ NationIcons/Ibiba
   index: -1
 NationIcons/Iflaviel
   rotate: false
-  xy: 832, 282
+  xy: 1104, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -116,9 +130,16 @@ NationIcons/Kukunesia
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Mertangle
+  rotate: false
+  xy: 1240, 282
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Molga
   rotate: false
-  xy: 968, 282
+  xy: 1376, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -132,14 +153,21 @@ NationIcons/Mossburra
   index: -1
 NationIcons/Netolania
   rotate: false
-  xy: 1104, 282
+  xy: 1512, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Pelvald
   rotate: false
-  xy: 1240, 282
+  xy: 1648, 282
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Qadira
+  rotate: false
+  xy: 1784, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -153,7 +181,7 @@ NationIcons/Rodgradia
   index: -1
 NationIcons/The Rudens
   rotate: false
-  xy: 1376, 282
+  xy: 692, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
