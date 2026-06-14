@@ -548,13 +548,13 @@
     "name": "Cuauhtlan", // Nahuatl
     "leaderName": "Ehecatl",
 
-    "declaringWar": "You're disturbing us, prepare for war.",
-	"attacked": "You've fallen into my trap. I'll bury you.",
+    "declaringWar": "Let's go to war! There will be no peace until you surrender.",
+	"attacked": "Foolishness. Absolute foolishness!",
 	"defeated": "I congratulate you for your victory.",
-	"introduction": "Welcome. I'm Ehecatl, of Cuauhtlan; the smartest military man in world history.",
+	"introduction": "Welcome to our nation. I am Ehecatl, leader of the mighty Cuauhtlan.",
 	  
-	"neutralHello": "Hello.",
-	"hateHello": "It's you.",
+	"neutralHello": "Yes.",
+	"hateHello": "Huh?",
 	"tradeRequest": "Cuauhtlan offers you this exceptional proposition.",
 
 	"outerColor": [125, 236, 227],
