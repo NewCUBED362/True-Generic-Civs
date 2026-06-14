@@ -485,7 +485,7 @@
   },
 	// Fantasy Names Generator Civs
   {
-    "name": "Gethousia",
+    "name": "Gethousia", // Random
     "leaderName": "Carmen Wallace",
 
     "declaringWar": "You're disturbing us, prepare for war.",
@@ -505,8 +505,8 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
-    "name": "Hyeonsang",
-    "leaderName": "Carmen Wallace",
+    "name": "Hyeonsang", // Korean
+    "leaderName": "Jung-hee Son",
 
     "declaringWar": "You're disturbing us, prepare for war.",
 	"attacked": "You've fallen into my trap. I'll bury you.",
