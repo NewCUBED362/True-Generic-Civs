@@ -528,13 +528,13 @@
     "name": "Qadira", // Iraqi
     "leaderName": "Latif Kazem",
 
-    "declaringWar": "You're disturbing us, prepare for war.",
-	"attacked": "You've fallen into my trap. I'll bury you.",
-	"defeated": "I congratulate you for your victory.",
-	"introduction": "Welcome. I'm Latif Kazem, of Qadira; the smartest military man in world history.",
+    "declaringWar": "The drums of war echo across the land. By my command, your nation shall be brought to heel.",
+	"attacked": "So be it. We shall answer your war with overwhelming force.",
+	"defeated": "You have won this day. See that you possess the strength to preserve what you have claimed.",
+	"introduction": "Many nations have risen. Many have fallen. Qadira endures because weakness has never found refuge within our borders.",
 	  
-	"neutralHello": "Hello.",
-	"hateHello": "It's you.",
+	"neutralHello": "Good day.",
+	"hateHello": "What now?",
 	"tradeRequest": "Qadira offers you this exceptional proposition.",
 
 	"outerColor": [116, 163, 243],
