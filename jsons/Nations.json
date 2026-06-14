@@ -478,7 +478,27 @@
 	"innerColor": [116, 163, 243],
     "uniqueName": "True Generic Civ",
     "cities": ["Whitemouth","Arminton","Gallingo","Port Starmer","Dement","Serbtan","Colossus","Turinvale",
-		       "Finnsberg","Port Arthur","Richmont","Calasgow","New Romale","Certon","Rafville","Midas"],
+		       "Finnsberg","Port Simon","Richmont","Calasgow","New Romale","Certon","Rafville","Midas"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Gethousia",
+    "leaderName": "Carmen Wallace",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Aduma","Boma","Sira","Mitumi","Dudu","Bemudo","Sasu","Mecate","Dofosabo",
+	           "Turapafe","Bepate","Satesa","Mido","Domi","Tuso","Robo","Mefebo","Depata"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
