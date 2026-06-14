@@ -511,17 +511,17 @@
     "declaringWar": "You're disturbing us, prepare for war.",
 	"attacked": "You've fallen into my trap. I'll bury you.",
 	"defeated": "I congratulate you for your victory.",
-	"introduction": "Welcome. I'm Carmen, of Gethousia; the smartest military man in world history.",
+	"introduction": "Welcome. I'm Jung-hee, of Hyeonsang; the smartest military woman in world history.",
 	  
 	"neutralHello": "Hello.",
 	"hateHello": "It's you.",
-	"tradeRequest": "Gethousia offers you this exceptional proposition.",
+	"tradeRequest": "Hyeonsang offers you this exceptional proposition.",
 
 	"outerColor": [255, 255, 255],
 	"innerColor": [1, 42, 108],
     "uniqueName": "True Generic Civ",
     "cities": ["Sinuijin","Sundong","Congneung","Yanghung","Gangcheon","Samgye","Sunyong","Gyerseong","Gangcheok","Rageup","Gyerje","Sinje",
 		       "Gwangsu","Congnan","Tanhung","Sokneung","Namcheon","Kangnan","Mungdong","Uihae"],
-    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+    "spyNames": ["Jae-Hwan","Myong-ok","Hanuel","Hyo-joo","Dong-jun","Eun","Ju-Hyun","Sang-eun","Sang","Hayun","Hwan","Eunji"],
   }
 ]
