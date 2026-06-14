@@ -537,8 +537,8 @@
 	"hateHello": "What now?",
 	"tradeRequest": "Qadira offers you this exceptional proposition.",
 
-	"outerColor": [116, 163, 243],
-	"innerColor": [202, 20, 20],
+	"outerColor": [247, 214, 1],
+	"innerColor": [21, 108, 49],
     "uniqueName": "True Generic Civ",
     "cities": ["Zubaphon","Qurma","Muqdallah","Amalujah","Tel Ubaimarra","Khanaqin","Al-Qugash","Najayji","Tel Kibair","As Samabair","Tall Kuthah",
 	           "Falluna","Al-Shaji","Haqlahok","Amadin","Balanah","Al Hillarra","Hermolem","Nilad","Tall Iskamer","Balayji","Nuzibja","Samatra","An Rahok"],
