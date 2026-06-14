@@ -483,6 +483,7 @@
 		       "Finnsberg","Port Simon","Richmont","Calasgow","New Romale","Certon","Rafville","Midas"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
+	// Fantasy Names Generator Civs
   {
     "name": "Gethousia",
     "leaderName": "Carmen Wallace",
@@ -501,6 +502,25 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria","Chagos","Slora","Egovale","Old Ingling","Lower Bomsea","New Ingling","Upper Bomsea","Gleland","Peuport",
 	           "Gogas","Entopool","Insas","Gark","Efrork","Ashares","Fettin","Flomtin","Pluhledo","Dracester","Oredo"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
+    "name": "Hyeonsang",
+    "leaderName": "Carmen Wallace",
+
+    "declaringWar": "You're disturbing us, prepare for war.",
+	"attacked": "You've fallen into my trap. I'll bury you.",
+	"defeated": "I congratulate you for your victory.",
+	"introduction": "Welcome. I'm Carmen, of Gethousia; the smartest military man in world history.",
+	  
+	"neutralHello": "Hello.",
+	"hateHello": "It's you.",
+	"tradeRequest": "Gethousia offers you this exceptional proposition.",
+
+	"outerColor": [255, 255, 255],
+	"innerColor": [1, 42, 108],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Hyeonsang"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
