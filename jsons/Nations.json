@@ -505,6 +505,26 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
+    "name": "Fosnauce", // Random
+    "leaderName": "Jack Johnson",
+
+    "declaringWar": "It's a kill or be killed world, mate. I will make this quick.",
+	"attacked": "Haah... Your armies will be totally destroyed before they ever set foot in Fosnauce!",
+	"defeated": "I congratulate you for your victory.",
+	"introduction": "Ah, How I love introductions! I am the great king Jack Johnson. I lead my great people, and the nation of Fosnauce.",
+	  
+	"neutralHello": "Hello.",
+	"hateHello": "Hah...",
+	"tradeRequest": "Fosnauce offers you this exceptional proposition.",
+
+	"outerColor": [255, 255, 255],
+	"innerColor": [1, 42, 108],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria","Chagos","Slora","Egovale","Old Ingling","Lower Bomsea","New Ingling","Upper Bomsea","Gleland","Peuport",
+	           "Gogas","Entopool","Insas","Gark","Efrork","Ashares","Fettin","Flomtin","Pluhledo","Dracester","Oredo"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
     "name": "Hyeonsang", // Korean
     "leaderName": "Jung-hee Son",
 
