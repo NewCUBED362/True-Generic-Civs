@@ -520,8 +520,7 @@
 	"outerColor": [255, 255, 255],
 	"innerColor": [1, 42, 108],
     "uniqueName": "True Generic Civ",
-    "cities": ["Gassey","Uziaset","Zruegas","Shirough","Bria","Chagos","Slora","Egovale","Old Ingling","Lower Bomsea","New Ingling","Upper Bomsea","Gleland","Peuport",
-	           "Gogas","Entopool","Insas","Gark","Efrork","Ashares","Fettin","Flomtin","Pluhledo","Dracester","Oredo"],
+    "cities": ["Mosver","Draving","Evlido","Vuburn","Prargend"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
