@@ -599,7 +599,7 @@
 	"outerColor": [125, 236, 227],
 	"innerColor": [120, 0, 0],
     "uniqueName": "True Generic Civ",
-    "cities": ["Sigmundarnes"],
+    "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll"],
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
   }
 ]
