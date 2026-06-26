@@ -520,7 +520,8 @@
 	"outerColor": [255, 255, 255],
 	"innerColor": [1, 42, 108],
     "uniqueName": "True Generic Civ",
-    "cities": ["Mosver","Draving","Evlido","Vuburn","Prargend","Uyricta","Shephia","Godiff","Bustead","Wredo"],
+    "cities": ["Mosver","Draving","Evlido","Vuburn","Prargend","Uyricta","Shephia","Godiff","Bustead","Wredo","Utuiphia","Plomouth","Yoicby",
+	           "Kleexsey","Reles"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
