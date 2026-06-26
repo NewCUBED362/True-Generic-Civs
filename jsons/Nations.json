@@ -520,8 +520,8 @@
 	"outerColor": [255, 255, 255],
 	"innerColor": [80, 22, 60],
     "uniqueName": "True Generic Civ",
-    "cities": ["Mosver","Draving","Evlido","Vuburn","Prargend","Uyricta","Shephia","Godiff","Bustead","Wredo","Utuiphia","Plomouth","Yoicby",
-	           "Kleexsey","Reles"],
+    "cities": ["Mosver","Draving","Evlido","Vuburn","Prargend","Uyricta","Torpin Palace","Shephia","Godiff","Bustead","Wredo","Utuiphia","Plomouth","Yoicby",
+	           "Kleexsey","Reles","Osobron Hideout"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
