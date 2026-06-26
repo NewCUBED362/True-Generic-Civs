@@ -596,8 +596,8 @@
 	"hateHello": "WHAT!?",
 	"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 
-	"outerColor": [125, 236, 227],
-	"innerColor": [120, 0, 0],
+	"outerColor": [43, 51, 128],
+	"innerColor": [233, 45, 24],
     "uniqueName": "True Generic Civ",
     "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll","Asbjarnarstaoir","Baegisa","Jolgeirsstaoir","Flugumyrr","Deildarey",
 	           "Munaoarnes","Horoaland","Bravollr","Hellishraun","Hegranes","Hareksstaoir","Gunnolfsvik","Asbjarnarnes","Baugsstaoir","Hjorleifshofoi"],
