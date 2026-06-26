@@ -587,9 +587,9 @@
     "name": "Ulfrik", // Viking
     "leaderName": "Bjorn",
 
-    "declaringWar": "Let's go to war! There will be no peace until you surrender.",
-	"attacked": "Foolishness. Absolute foolishness!",
-	"defeated": "I congratulate you for your victory.",
+    "declaringWar": "To victory! To Odin's halls!",
+	"attacked": "You suppose you are to control the fire you have started. No, ho ho ho... No! It is too great for you!",
+	"defeated": "So, I will join the einherjar in Valhalla and feast, while you toil away here.",
 	"introduction": "Welcome to our nation. I am Bjorn, leader of the mighty Ulfrik.",
 	  
 	"neutralHello": "Yes.",
