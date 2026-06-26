@@ -583,4 +583,23 @@
     "cities": ["Xocoyapan","Atzacualco","Xolco","Iztemecan","Tenochi","Tlacotzinco","Cuetla","Quetzalhuacan","Xochan","Mixco","Tlalco","Cozala"],
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
   },
+  {
+    "name": "Ulfrik", // Viking
+    "leaderName": "Bjorn",
+
+    "declaringWar": "Let's go to war! There will be no peace until you surrender.",
+	"attacked": "Foolishness. Absolute foolishness!",
+	"defeated": "I congratulate you for your victory.",
+	"introduction": "Welcome to our nation. I am Bjorn, leader of the mighty Ulfrik.",
+	  
+	"neutralHello": "Yes.",
+	"hateHello": "Huh?",
+	"tradeRequest": "Ulfrik offers you this exceptional proposition.",
+
+	"outerColor": [125, 236, 227],
+	"innerColor": [120, 0, 0],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Sigmundarnes"],
+    "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
+  }
 ]
