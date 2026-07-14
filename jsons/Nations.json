@@ -537,8 +537,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [27,53,63],
-	"innerColor": [213,249,255],
+	"outerColor": [239,52,52],
+	"innerColor": [104,38,11],
     "uniqueName": "True Generic Civ",
     "cities": ["Rothecola"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
