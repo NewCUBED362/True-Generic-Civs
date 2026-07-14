@@ -639,7 +639,7 @@
 	"outerColor": [0,129,72],
 	"innerColor": [209,240,177],
     "uniqueName": "True Generic Civ",
-    "cities": ["Bulebua"],
+    "cities": ["Lobisa","Sacobela","Menoncanha","Sacupa","Conmunona"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
