@@ -624,7 +624,7 @@
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
   },
   {
-    "name": "Bulebua", // Random + North American
+    "name": "Bulebua", // Angolan
     "leaderName": "Jason",
 
 	"declaringWar": "You leave us no choice. War it must be.",
@@ -639,7 +639,8 @@
 	"outerColor": [0,129,72],
 	"innerColor": [209,240,177],
     "uniqueName": "True Generic Civ",
-    "cities": ["Lobisa","Sacobela","Menoncanha","Sacupa","Conmunona"],
+    "cities": ["Lobisa","Sacobela","Menoncanha","Sacupa","Conmunona","Cambunbongue","Chicanongue","Cabobo",
+	           "Nzabe","Menongonjo"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
