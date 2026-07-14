@@ -525,7 +525,7 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
-    "name": "Kogi", // Random
+    "name": "Kogi", // Random + North American
     "leaderName": "Alphonso Alger",
 
 	"declaringWar": "You leave us no choice. War it must be.",
@@ -540,7 +540,7 @@
 	"outerColor": [239,52,52],
 	"innerColor": [104,38,11],
     "uniqueName": "True Generic Civ",
-    "cities": ["Rothecola"],
+    "cities": ["Rothecola","Milgonie","Battlechill","Grimsard","Tepextanejo","Coleburn"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
