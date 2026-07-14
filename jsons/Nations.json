@@ -540,7 +540,8 @@
 	"outerColor": [239,52,52],
 	"innerColor": [104,38,11],
     "uniqueName": "True Generic Civ",
-    "cities": ["Rothecola","Milgonie","Battlechill","Grimsard","Barnham","Coleburn","Coleburn","Raycroft","Bouchergami","Hingney"],
+    "cities": ["Rothecola","Milgonie","Battlechill","Grimsard","Barnham","Coleburn","Coleburn","Raycroft","Bouchergami","Hingney",
+	           "Gracelan","Cascarres","Dalmack","Papanreon","Surfolk"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
