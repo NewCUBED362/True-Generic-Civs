@@ -525,6 +525,25 @@
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
+    "name": "Kogi", // Random
+    "leaderName": "Alphonso Alger",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you. I am Alphonso Alger of Kogi.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [27,53,63],
+	"innerColor": [213,249,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Rothecola"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
+  {
     "name": "Hyeonsang", // Korean
     "leaderName": "Jung-hee Son",
 
