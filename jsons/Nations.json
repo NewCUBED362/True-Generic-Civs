@@ -622,5 +622,23 @@
     "cities": ["Sigmundarnes","Sauoa","Hrafnkelsdalr","Gyldarhagi","Knappsstaoir","Eyjafjoll","Asbjarnarstaoir","Baegisa","Jolgeirsstaoir","Flugumyrr","Deildarey",
 	           "Munaoarnes","Horoaland","Bravollr","Hellishraun","Hegranes","Hareksstaoir","Gunnolfsvik","Asbjarnarnes","Baugsstaoir","Hjorleifshofoi"],
     "spyNames": ["Chalchiuitl","Cuauhtemoc","Chimalma","Itzcoatl","Nochehuatl","Tlaloc","Chicomecoatl","Xiuhpilli","Xilonen","Yaotl","Yaretzi","Zolin"],
+  },
+    "name": "Bulebua", // Random + North American
+    "leaderName": "Jason",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you. I am Alphonso Alger of Kogi.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [0,129,72],
+	"innerColor": [209,240,177],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Bulebua"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   }
 ]
