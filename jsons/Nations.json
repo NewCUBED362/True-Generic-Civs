@@ -625,12 +625,12 @@
   },
   {
     "name": "Bulebua", // Angolan
-    "leaderName": "Uzochi Abdullahi",
+    "leaderName": "Paul Abdullahi",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Uzochi Abdullahi of Bulebua.",
+	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Bulebua.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
@@ -641,6 +641,6 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Lobisa","Sacobela","Menoncanha","Sacupa","Conmunona","Cambunbongue","Chicanongue","Cabobo",
 	           "Nzabe","Menongonjo","Gabejimbe","Cahavate","Caimtativa","Mbansamba"],
-    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+    "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
