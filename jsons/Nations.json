@@ -698,8 +698,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [191,26,47],
-	"innerColor": [46,134,171],
+	"outerColor": [225,0,0],
+	"innerColor": [96,183,148],
     "uniqueName": "True Generic Civ",
     "cities": ["Oumäki","Pyhänola","Harjapiö","Savonkoski","Lahpiö","Paintio","Sosaari","Alakumpu","Uusikaupula",
 	           "Kouko","Mänkia","Rovasaari","Hanrina","Kiurepiö","Kokpori","Orimaviisa","Kuovesi","Niniemi",
