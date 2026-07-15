@@ -681,7 +681,8 @@
 	"innerColor": [209,240,177],
     "uniqueName": "True Generic Civ",
     "cities": ["Malny","Gbelná","Šulava","Stroplom","Bratiszev","Košna","Moldanovo","Čierník","Giralhovec","Vrútmarok",
-	           "Hlolanta","Námenov","Selacky","Bojstovo","Vysože","Humenky","Tlmapoldov","Šaňová","Turtin"],
+	           "Hlolanta","Námenov","Selacky","Bojstovo","Vysože","Humenky","Tlmapoldov","Šaňová","Turtin","Jelberok",
+	           "Kromrany","Vranec","Dudny","Ružomvúca"],
     "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
