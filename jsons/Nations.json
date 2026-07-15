@@ -701,7 +701,8 @@
 	"outerColor": [191,26,47],
 	"innerColor": [46,134,171],
     "uniqueName": "True Generic Civ",
-    "cities": ["Oumäki","Pyhänola","Harjapiö","Savonkoski","Lahpiö","Paintio"],
+    "cities": ["Oumäki","Pyhänola","Harjapiö","Savonkoski","Lahpiö","Paintio","Sosaari","Alakumpu","Uusikaupula",
+	           "Kouko","Mänkia"],
     "spyNames": ["Jozef", "Mária", "Ján", "Anna", "Zuzana", "Martin", "Katarína", "Filip", "Tomáš", "Milan"],
   }
 ]
