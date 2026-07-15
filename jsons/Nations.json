@@ -664,6 +664,7 @@
 	           "Mutsuhidaka","Aridayako","Horotari","Naranai","Tawarahoro","Ranramoto","Mutsukawa","Tawakawa"],
     "spyNames": ["Akira", "Haruki", "Hiroto", "Asahi", "Itsuki", "Ren", "Kaito", "Yuki", "Sora", "Masako"],
   },
+  {
     "name": "Dravenska", // Slovak
     "leaderName": "Billy",
 
@@ -679,7 +680,7 @@
 	"outerColor": [0,129,72],
 	"innerColor": [209,240,177],
     "uniqueName": "True Generic Civ",
-    "cities": ["Malny","Gbelná"],
+    "cities": ["Malny","Gbelná","Šulava","Stroplom"],
     "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
