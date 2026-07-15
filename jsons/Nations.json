@@ -625,12 +625,12 @@
   },
   {
     "name": "Bulebua", // Angolan
-    "leaderName": "Jason",
+    "leaderName": "Uzochi Abdullahi",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Alphonso Alger of Kogi.",
+	"introduction": "We are pleased to meet you. I am Uzochi Abdullahi of Bulebua.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
