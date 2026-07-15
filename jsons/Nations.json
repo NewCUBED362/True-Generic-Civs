@@ -677,12 +677,12 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [0,129,72],
-	"innerColor": [209,240,177],
+	"outerColor": [191,26,47],
+	"innerColor": [46,134,171],
     "uniqueName": "True Generic Civ",
     "cities": ["Malny","Gbelná","Šulava","Stroplom","Bratiszev","Košna","Moldanovo","Čierník","Giralhovec","Vrútmarok",
 	           "Hlolanta","Námenov","Selacky","Bojstovo","Vysože","Humenky","Tlmapoldov","Šaňová","Turtin","Jelberok",
 	           "Kromrany","Vranec","Dudny","Ružomvúca"],
-    "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
+    "spyNames": ["Jozef", "Mária", "Ján", "Anna", "Zuzana", "Martin", "Katarína", "Filip", "Tomáš", "Milan"],
   }
 ]
