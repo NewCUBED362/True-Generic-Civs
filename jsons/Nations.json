@@ -687,12 +687,12 @@
   },
   {
     "name": "Kuusivaara", // Finnish
-    "leaderName": "Jesse",
+    "leaderName": "Inkeri Laakso",
 
 	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
+	"attacked": "Tonight, the snow speaks Finnish.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Jesse of Kuusivaara.",
+	"introduction": "We are pleased to meet you. I am Inkeri Laakso of Kuusivaara.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
