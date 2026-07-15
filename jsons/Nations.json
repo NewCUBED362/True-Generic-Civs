@@ -642,5 +642,24 @@
     "cities": ["Lobisa","Sacobela","Menoncanha","Sacupa","Conmunona","Cambunbongue","Chicanongue","Cabobo",
 	           "Nzabe","Menongonjo","Gabejimbe","Cahavate","Caimtativa","Mbansamba"],
     "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
+  },
+  {
+    "name": "Hoshigawa", // Japanese
+    "leaderName": "Hiro",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Bulebua.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [0,129,72],
+	"innerColor": [209,240,177],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Tawarakawa"],
+    "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
