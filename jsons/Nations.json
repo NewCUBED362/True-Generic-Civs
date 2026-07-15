@@ -660,7 +660,8 @@
 	"innerColor": [209,240,177],
     "uniqueName": "True Generic Civ",
     "cities": ["Tawarakawa","Nagamatsunai","Yanouchi","Shimatama","Yahatori","Fujikumo","Takakonai","Asabiro","Yokotsukawa",
-	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu"],
+	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu","Hashikotan","Shintohaba",
+	           "Mutsuhidaka","Aridayako","Horotari"],
     "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
