@@ -684,5 +684,24 @@
 	           "Hlolanta","Námenov","Selacky","Bojstovo","Vysože","Humenky","Tlmapoldov","Šaňová","Turtin","Jelberok",
 	           "Kromrany","Vranec","Dudny","Ružomvúca"],
     "spyNames": ["Jozef", "Mária", "Ján", "Anna", "Zuzana", "Martin", "Katarína", "Filip", "Tomáš", "Milan"],
+  },
+  {
+    "name": "Kuusivaara", // Finnish
+    "leaderName": "Jesse",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you. I am Jesse of Kuusivaara.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [191,26,47],
+	"innerColor": [46,134,171],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Oumäki","Pyhänola"],
+    "spyNames": ["Jozef", "Mária", "Ján", "Anna", "Zuzana", "Martin", "Katarína", "Filip", "Tomáš", "Milan"],
   }
 ]
