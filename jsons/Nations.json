@@ -647,10 +647,10 @@
     "name": "Hoshigawa", // Japanese
     "leaderName": "Takuma Hoshino",
 
-	"declaringWar": "You leave us no choice. War it must be.",
-	"attacked": "Very well, this shall not be forgotten.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Takuma Hoshino of Hoshigawa.",
+	"declaringWar": "I will not allow the Empire to suffer you any longer. The time has come to end this charade!",
+	"attacked": "The Divine Wind will protect us and you will fall, like the others.",
+	"defeated": "Please end this dishonor to my family... to my people.",
+	"introduction": "Hello, I am Takuma Hoshino of Hoshigawa, a humble disciple of Bushido.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
