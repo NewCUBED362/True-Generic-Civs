@@ -656,8 +656,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "What do you offer in return for the favor of the Empire of Hoshigawa?",
 
-	"outerColor": [0,129,72],
-	"innerColor": [209,240,177],
+	"outerColor": [237,174,118],
+	"innerColor": [191,75,74],
     "uniqueName": "True Generic Civ",
     "cities": ["Tawarakawa","Nagamatsunai","Yanouchi","Shimatama","Yahatori","Fujikumo","Takakonai","Asabiro","Yokotsukawa",
 	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu","Hashikotan","Shintohaba",
