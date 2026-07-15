@@ -650,7 +650,7 @@
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Bulebua.",
+	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Hoshigawa.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
@@ -661,7 +661,7 @@
     "uniqueName": "True Generic Civ",
     "cities": ["Tawarakawa","Nagamatsunai","Yanouchi","Shimatama","Yahatori","Fujikumo","Takakonai","Asabiro","Yokotsukawa",
 	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu","Hashikotan","Shintohaba",
-	           "Mutsuhidaka","Aridayako","Horotari"],
+	           "Mutsuhidaka","Aridayako","Horotari","Naranai","Tawarahoro","Ranramoto","Mutsukawa","Tawakawa"],
     "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
