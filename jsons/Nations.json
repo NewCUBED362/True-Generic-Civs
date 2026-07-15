@@ -666,12 +666,12 @@
   },
   {
     "name": "Dravenska", // Slovak
-    "leaderName": "Billy",
+    "leaderName": "Pavlína Mlynárik",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Bulebua.",
+	"introduction": "We are pleased to meet you. I am Pavlína Mlynárik of Dravenska.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
