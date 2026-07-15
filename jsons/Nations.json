@@ -654,7 +654,7 @@
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+	"tradeRequest": "What do you offer in return for the favor of the Empire of Hoshigawa?",
 
 	"outerColor": [0,129,72],
 	"innerColor": [209,240,177],
@@ -662,6 +662,6 @@
     "cities": ["Tawarakawa","Nagamatsunai","Yanouchi","Shimatama","Yahatori","Fujikumo","Takakonai","Asabiro","Yokotsukawa",
 	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu","Hashikotan","Shintohaba",
 	           "Mutsuhidaka","Aridayako","Horotari","Naranai","Tawarahoro","Ranramoto","Mutsukawa","Tawakawa"],
-    "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
+    "spyNames": ["Akira", "Haruki", "Hiroto", "Asahi", "Itsuki", "Ren", "Kaito", "Yuki", "Sora", "Masako"],
   }
 ]
