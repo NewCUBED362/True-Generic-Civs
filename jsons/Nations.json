@@ -663,5 +663,23 @@
 	           "Kimokami","Soumatsunai","Asawara","Biramamoto","Tawatoro","Nagashina","Kuzubetsu","Hashikotan","Shintohaba",
 	           "Mutsuhidaka","Aridayako","Horotari","Naranai","Tawarahoro","Ranramoto","Mutsukawa","Tawakawa"],
     "spyNames": ["Akira", "Haruki", "Hiroto", "Asahi", "Itsuki", "Ren", "Kaito", "Yuki", "Sora", "Masako"],
+  },
+    "name": "Dravenska", // Slovak
+    "leaderName": "Billy",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you. I am Paul Abdullahi of Bulebua.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [0,129,72],
+	"innerColor": [209,240,177],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Malny","Gbelná"],
+    "spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
   }
 ]
