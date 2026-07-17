@@ -719,8 +719,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [225,0,0],
-	"innerColor": [96,183,148],
+	"outerColor": [1,78,81],
+	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Xiangxing","Liaocheng","Quchun","Pingchang","Furamay","Shaodao","Jiangqihar","Old Zhouhai","New Zhouhai",
 	           "Qingyuan","Qingdong","Fuhua","Mudanhua","Xuqihar","Yuanshu","Mudanrao","Jiangxing","Fuchong","Qinyuan",
