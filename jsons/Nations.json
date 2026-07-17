@@ -723,7 +723,8 @@
 	"innerColor": [96,183,148],
     "uniqueName": "True Generic Civ",
     "cities": ["Xiangxing","Liaocheng","Quchun","Pingchang","Furamay","Shaodao","Jiangqihar","Old Zhouhai","New Zhouhai",
-	           "Qingyuan","Qingdong","Fuhua","Mudanhua","Xuqihar","Yuanshu","Mudanrao"],
+	           "Qingyuan","Qingdong","Fuhua","Mudanhua","Xuqihar","Yuanshu","Mudanrao","Jiangxing","Fuchong","Qinyuan",
+	           "Zoaping","Hanggong"],
     "spyNames": ["Aino","Elli","Helmi","Kerttu","Sofia","Vilma","Aapo","Eero","Juhani","Mikael","Oskari","Veikko"],
   }
 ]
