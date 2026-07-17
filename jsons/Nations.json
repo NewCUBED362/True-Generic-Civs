@@ -726,5 +726,24 @@
 	           "Qingyuan","Qingdong","Fuhua","Mudanhua","Xuqihar","Yuanshu","Mudanrao","Jiangxing","Fuchong","Qinyuan",
 	           "Zoaping","Hanggong"],
     "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Jianxin"],
+  },
+  {
+    "name": "Kanvara", // Indian
+    "leaderName": "Billy",
+
+	"declaringWar": "Quite an annoyance you are. It is about time I grabbed my Guandao and pierced you with it!",
+	"attacked": "You will face the fury of a thousand arrows before you ever set foot in Tianshangwu.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "Greetings, visitor. My name is Billy of the glorious Kanvara empire.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [1,78,81],
+	"innerColor": [255,255,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Ambegat"],
+    "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Jianxin"],
   }
 ]
