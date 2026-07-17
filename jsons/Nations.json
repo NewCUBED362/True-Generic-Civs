@@ -722,7 +722,8 @@
 	"outerColor": [225,0,0],
 	"innerColor": [96,183,148],
     "uniqueName": "True Generic Civ",
-    "cities": ["Xiangxing","Liaocheng","Quchun","Pingchang","Furamay","Shaodao"],
+    "cities": ["Xiangxing","Liaocheng","Quchun","Pingchang","Furamay","Shaodao","Jiangqihar","Old Zhouhai","New Zhouhai",
+	           "Qingyuan","Qingdong"],
     "spyNames": ["Aino","Elli","Helmi","Kerttu","Sofia","Vilma","Aapo","Eero","Juhani","Mikael","Oskari","Veikko"],
   }
 ]
