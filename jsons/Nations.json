@@ -708,12 +708,12 @@
   },
   {
     "name": "Tianshangwu", // Chinese
-    "leaderName": "Phil",
+    "leaderName": "Huan Chan",
 
-	"declaringWar": "You leave us no choice. War it must be.",
+	"declaringWar": "Quite an annoyance you are. It is about time I grabbed my Guandao and pierced you with it!",
 	"attacked": "You will face the fury of a thousand arrows before you ever set foot in Tianshangwu.",
 	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "We are pleased to meet you. I am Phil of Tianshangwu.",
+	"introduction": "Greetings, visitor. My name is Huan Chan of the glorious Tianshangwu empire.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
