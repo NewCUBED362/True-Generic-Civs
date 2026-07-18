@@ -740,7 +740,7 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [1,78,81],
+	"outerColor": [109,0,205],
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Fazilnagar","Tiruganj","Khagagat","Gumiri","Karimgiri","Jharsugur","Farooqdukur","Karimlangir","Malkanlaj","Safipalle",
