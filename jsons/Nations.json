@@ -765,7 +765,8 @@
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Sajószcag","Püspövesd","Hatrom","Sarlény","Bátonyvörösvár","Domdrőd","Sajóhértó","Domsmisze",
-	           "Kapupes","Bacsa","Csorpolca","Hatcag","Mezőraszti","Kislány","Bévesd","Kőscag"],
+	           "Kapupes","Bacsa","Csorpolca","Hatcag","Mezőraszti","Kislány","Bévesd","Kőscag","Tapolros",
+	           "Mezőka","Orothely","Szengy","Domcali"],
     "spyNames": ["Ashok","Shanx","Hormis","Sanjeev","Ananda","Rani","Parvati","Mukta","Karishma","Jyotsna"],
   }
 ]
