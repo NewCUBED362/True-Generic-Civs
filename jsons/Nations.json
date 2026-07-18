@@ -733,8 +733,8 @@
 
 	"declaringWar": "Quite an annoyance you are. It is about time I grabbed my spear and pierced you with it!",
 	"attacked": "You will face the fury of a thousand arrows before you ever set foot in Tianshangwu.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "Greetings, visitor. My name is Diya of the glorious Kanvara empire.",
+	"defeated": "And now, the burning wheel passes over me.",
+	"introduction": "I am Diya, the great king at the center of the world, and profound sinner.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What?",
@@ -754,10 +754,10 @@
 
 	"declaringWar": "Let us fight! Let us see who's army is greater!",
 	"attacked": "I always knew that there would be war between us.",
-	"defeated": "It is over. Perhaps now I shall have peace, at last.",
-	"introduction": "Greetings, visitor. My name is Terry of the glorious Tiszaliga empire.",
+	"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
+	"introduction": "I am Terry. I am King of Tiszaliga, scourge of my foes, and defender of the faithful. Greetings.",
 
-	"neutralHello": "Hello.",
+	"neutralHello": "Greetings.",
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
