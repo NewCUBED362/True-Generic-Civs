@@ -750,16 +750,16 @@
   },
   {
     "name": "Tiszaliga", // Hungarian
-    "leaderName": "Terry",
+    "leaderName": "Máté Büki",
 
 	"declaringWar": "Let us fight! Let us see who's army is greater!",
 	"attacked": "I always knew that there would be war between us.",
 	"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
-	"introduction": "I am Terry. I am King of Tiszaliga, scourge of my foes, and defender of the faithful. Greetings.",
+	"introduction": "I am Máté Büki. I am King of Tiszaliga, scourge of my foes, and defender of the faithful. Greetings.",
 
 	"neutralHello": "Greetings.",
 	"hateHello": "What?",
-	"tradeRequest": "Would you be interested in a trade agreement?",
+	"tradeRequest": "Are you interested in a trade agreement?",
 
 	"outerColor": [0,0,0],
 	"innerColor": [255,255,255],
