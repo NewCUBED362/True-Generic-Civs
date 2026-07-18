@@ -764,7 +764,7 @@
 	"outerColor": [0,0,0],
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Sajószcag"],
+    "cities": ["Sajószcag","Püspövesd","Hatrom","Sarlény","Bátonyvörösvár","Domdrőd"],
     "spyNames": ["Ashok","Shanx","Hormis","Sanjeev","Ananda","Rani","Parvati","Mukta","Karishma","Jyotsna"],
   }
 ]
