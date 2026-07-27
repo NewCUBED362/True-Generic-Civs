@@ -768,5 +768,24 @@
 	           "Kapupes","Bacsa","Csorpolca","Hatcag","Mezőraszti","Kislány","Bévesd","Kőscag","Tapolros",
 	           "Mezőka","Orothely","Szengy","Domcali","Nyírvas","Balred","Kisrog"],
     "spyNames": ["Ákos","Erik","Krisztián","Roland","Márkó","Daniel","Ancsi","Bernadett","Lili","Melinda","Bea","Klaudia"],
+  },
+  {
+    "name": "Alamjepara", // Indonesian
+    "leaderName": "Jamal",
+
+	"declaringWar": "Let us fight! Let us see who's army is greater!",
+	"attacked": "I always knew that there would be war between us.",
+	"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
+	"introduction": "I am Jamal. I am King of Alamjepara, scourge of my foes, and defender of the faithful. Greetings.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What?",
+	"tradeRequest": "Are you interested in a trade agreement?",
+
+	"outerColor": [0,0,0],
+	"innerColor": [255,255,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Lhokhi"],
+    "spyNames": ["Ákos","Erik","Krisztián","Roland","Márkó","Daniel","Ancsi","Bernadett","Lili","Melinda","Bea","Klaudia"],
   }
 ]
