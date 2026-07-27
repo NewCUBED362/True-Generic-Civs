@@ -782,8 +782,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Are you interested in a trade agreement?",
 
-	"outerColor": [0,0,0],
-	"innerColor": [255,255,255],
+	"outerColor": [120,0,0],
+	"innerColor": [255,177,60],
     "uniqueName": "True Generic Civ",
     "cities": ["Parepasar","Baubon","Kugau","Makarang","Patro","Salarong","Pangdung","Jamgan","Makabon","Tanmawe","Mojorang",
 	           "Pama","Malu","Pemapok","Tikulu","Salatiga","Binman","Jamkasi","Suraraya","Dudari","Singlaboh","Semapura",
