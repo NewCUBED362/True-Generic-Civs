@@ -813,12 +813,12 @@
   },
   {
     "name": "Uralia", // Russian
-    "leaderName": "Sizov",
+    "leaderName": "Arseniy",
 
 	"declaringWar": "History remembers conquerors, not those who stood in their path. Today, your people learn that lesson.",
 	"attacked": "So be it. We shall answer your declaration with overwhelming force.",
 	"defeated": "This is not the end... merely a pause in our story.",
-	"introduction": "Well met. I am Sizov. Let us see if our interests align.",
+	"introduction": "Well met. I am Arseniy. Let us see if our interests align.",
 
 	"neutralHello": "Good day.",
 	"hateHello": "What is it!?",
