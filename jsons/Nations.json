@@ -807,7 +807,8 @@
 	"innerColor": [255,177,60],
     "uniqueName": "True Generic Civ",
     "cities": ["Nowrell","Burnern","Aubury","Morarton","Nowrilda","Forstine","Wyndorn","Craigetton","Fremona","Katern",
-	           "Bunbine"],
+	           "Bunbine","Lilydantle","Alells","Tamwen","Sheppadine","Waggigo","Cambers","Nerith","Essells","Goulbagga",
+	           "Engerrie"],
     "spyNames": ["Zulkifli","Soebandrio","Nicklany","Sukarno","Aditya","Elang","Guntur","Reza","Cahya","Walter"],
   }
 ]
