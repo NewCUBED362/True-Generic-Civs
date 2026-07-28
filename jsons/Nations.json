@@ -789,5 +789,24 @@
 	           "Pama","Malu","Pemapok","Tikulu","Salatiga","Binman","Jamkasi","Suraraya","Dudari","Singlaboh","Semapura",
 	           "Manotro","Sibolbua","Horonmai","Matatu","Gomulih","Langbau","Palanglinggo","Semabau"],
     "spyNames": ["Zulkifli","Soebandrio","Nicklany","Sukarno","Aditya","Elang","Guntur","Reza","Cahya","Walter"],
+  },
+  {
+    "name": "Coralshore", // Australian
+    "leaderName": "Scarlett",
+
+	"declaringWar": "Let us fight! Let us see who's army is greater!",
+	"attacked": "I always knew that there would be war between us.",
+	"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
+	"introduction": "I am Scarlett. I am Queen of Coralshore, scourge of my foes, and defender of the faithful. Greetings.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What?",
+	"tradeRequest": "Are you interested in a trade agreement?",
+
+	"outerColor": [120,0,0],
+	"innerColor": [255,177,60],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Nowrell"],
+    "spyNames": ["Zulkifli","Soebandrio","Nicklany","Sukarno","Aditya","Elang","Guntur","Reza","Cahya","Walter"],
   }
 ]
