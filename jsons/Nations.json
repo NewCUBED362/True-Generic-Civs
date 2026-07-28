@@ -817,12 +817,12 @@
 
 	"declaringWar": "History remembers conquerors, not those who stood in their path. Today, your people learn that lesson.",
 	"attacked": "So be it. We shall answer your declaration with overwhelming force.",
-	"defeated": "Leadership is measured not only by victory, but by the grace with which one accepts defeat. Farewell.",
-	"introduction": "Greetings. I am Sizov of Uralia. May this meeting mark the beginning of a prosperous friendship between our peoples.",
+	"defeated": "This is not the end... merely a pause in our story.",
+	"introduction": "Well met. I am Sizov. Let us see if our interests align.",
 
-	"neutralHello": "Greetings.",
+	"neutralHello": "Good day.",
 	"hateHello": "What is it!?",
-	"tradeRequest": "Strong relationships are built upon mutual benefit. I believe this proposal serves us both well.",
+	"tradeRequest": "Our merchants see considerable potential in cooperation between our nations.",
 
 	"outerColor": [116,163,243],
 	"innerColor": [249,249,249],
