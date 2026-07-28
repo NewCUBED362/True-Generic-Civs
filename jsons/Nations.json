@@ -794,14 +794,14 @@
     "name": "Coralshore", // Australian
     "leaderName": "Scarlett",
 
-	"declaringWar": "Let us fight! Let us see who's army is greater!",
-	"attacked": "I always knew that there would be war between us.",
-	"defeated": "Today you wear the victor's laurels, but can you keep what you have taken?",
-	"introduction": "I am Scarlett. I am Queen of Coralshore, scourge of my foes, and defender of the faithful. Greetings.",
+	"declaringWar": "I had hoped wisdom would prevail, yet you have left us with no acceptable alternative. We are at war.",
+	"attacked": "Even now, I believe conflict is a failure of leadership. Yet we shall not yield.",
+	"defeated": "Leadership is measured not only by victory, but by the grace with which one accepts defeat. Farewell.",
+	"introduction": "Greetings. I am Scarlett of Coralshore. May this meeting mark the beginning of a prosperous friendship between our peoples.",
 
 	"neutralHello": "Greetings.",
-	"hateHello": "What?",
-	"tradeRequest": "Are you interested in a trade agreement?",
+	"hateHello": "What is it!?",
+	"tradeRequest": "Strong relationships are built upon mutual benefit. I believe this proposal serves us both well.",
 
 	"outerColor": [120,0,0],
 	"innerColor": [255,177,60],
