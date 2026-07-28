@@ -803,8 +803,8 @@
 	"hateHello": "What is it!?",
 	"tradeRequest": "Strong relationships are built upon mutual benefit. I believe this proposal serves us both well.",
 
-	"outerColor": [120,0,0],
-	"innerColor": [255,177,60],
+	"outerColor": [116,163,243],
+	"innerColor": [249,249,249],
     "uniqueName": "True Generic Civ",
     "cities": ["Nowrell","Burnern","Aubury","Morarton","Nowrilda Bay","Forstine","Wyndorn","Craigetton","Fremona","Katern",
 	           "Bunbine","Lilydantle","Alells","Tamwen","Sheppadine","Waggigo","Cambers","Nerith","Essells","Goulbagga",
