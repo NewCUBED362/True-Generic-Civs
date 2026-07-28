@@ -828,7 +828,8 @@
 	"innerColor": [249,249,249],
     "uniqueName": "True Generic Civ",
     "cities": ["Belenskoye","Belgovo","Myzov","Kororiysk","Nakhorovsk","Buguznetsk","Kagadan","Chernoluga","Leninokarino",
-	           "Cheleuz","Noyazovsky"],
+	           "Cheleuz","Noyazovsky","Elimna","Shuvrov","Oryvsk","Yuprudny","Roslaski","Chikhladny","Voskreshin",
+	           "Anazan","Rimgorod","Lyubelovka","Sevebuga Lake"],
     "spyNames": ["James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"],
   }
 ]
