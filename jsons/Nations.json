@@ -824,8 +824,8 @@
 	"hateHello": "What is it!?",
 	"tradeRequest": "Our merchants see considerable potential in cooperation between our nations.",
 
-	"outerColor": [116,163,243],
-	"innerColor": [249,249,249],
+	"outerColor": [0,79,206],
+	"innerColor": [1,42,108],
     "uniqueName": "True Generic Civ",
     "cities": ["Belenskoye","Belgovo","Myzov","Kororiysk","Nakhorovsk","Buguznetsk","Kagadan","Chernoluga","Leninokarino",
 	           "Cheleuz","Noyazovsky","Elimna","Shuvrov","Oryvsk","Yuprudny","Roslaski","Chikhladny","Voskreshin",
