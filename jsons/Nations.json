@@ -810,5 +810,24 @@
 	           "Bunbine","Lilydantle","Alells","Tamwen","Sheppadine","Waggigo","Cambers","Nerith","Essells","Goulbagga",
 	           "Engerrie","Lilydaster","Kwinura","Carlangba","Geelide","Wollona","Altafton","Cessnell","Albale","Morpherrie"],
     "spyNames": ["James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"],
+  },
+  {
+    "name": "Uralia", // Russian
+    "leaderName": "Sizov",
+
+	"declaringWar": "I had hoped wisdom would prevail, yet you have left us with no acceptable alternative. We are at war.",
+	"attacked": "Even now, I believe conflict is a failure of leadership. Yet we shall not yield.",
+	"defeated": "Leadership is measured not only by victory, but by the grace with which one accepts defeat. Farewell.",
+	"introduction": "Greetings. I am Sizov of Uralia. May this meeting mark the beginning of a prosperous friendship between our peoples.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "What is it!?",
+	"tradeRequest": "Strong relationships are built upon mutual benefit. I believe this proposal serves us both well.",
+
+	"outerColor": [116,163,243],
+	"innerColor": [249,249,249],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Belenskoye"],
+    "spyNames": ["James","Scarlett","Mycroft","Charlotte","Gwendolyn","Mr. Eks","Dr. Grey","Andrew","Scott","Anne"],
   }
 ]
