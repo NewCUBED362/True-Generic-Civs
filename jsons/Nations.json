@@ -866,8 +866,8 @@
 	"hateHello": "...",
 	"tradeRequest": "Prosperity is best shared with those willing to learn. We trust this agreement will be educational.",
 
-	"outerColor": [252,213,82],
-	"innerColor": [0,71,119],
+	"outerColor": [174,174,174],
+	"innerColor": [247,214,1],
     "uniqueName": "True Generic Civ",
     "cities": ["Tarmi","Ampelomaida","Anari","Komopoli","Missorfu","Meliraia","Kastomno","Kaisadeia","Gialoniki","Tyrnarpia",
 	           "Katetras","Achastiada","Amperini","Nearama","Ymismos","Tafka","Statero","Mytikleio","Ilioukaia","Taliro",
