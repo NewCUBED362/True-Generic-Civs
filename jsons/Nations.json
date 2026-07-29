@@ -831,5 +831,24 @@
 	           "Cheleuz","Noyazovsky","Elimna","Shuvrov","Oryvsk","Yuprudny","Roslaski","Chikhladny","Voskreshin",
 	           "Anazan","Rimgorod","Lyubelovka","Sevebuga Lake","Obnisinsk","Yelenskoy","Noyarsk","Noginsk","Zarezov"],
     "spyNames": ["Samuil","Filipp","Nikodim","Matvey","Maksim","Ivan","Zakhar","Dasha","Maria","Daniil","Tasha","Valeriya"],
+  },
+  {
+    "name": "Vallenorte", // Colombian
+    "leaderName": "Javi",
+
+	"declaringWar": "History remembers conquerors, not those who stood in their path. Today, your people learn that lesson.",
+	"attacked": "So be it. We shall answer your declaration with overwhelming force.",
+	"defeated": "This is not the end... merely a pause in our story.",
+	"introduction": "Well met. I am Javi. Let us see if our interests align.",
+
+	"neutralHello": "Good day.",
+	"hateHello": "What is it!?",
+	"tradeRequest": "Our merchants see considerable potential in cooperation between our nations.",
+
+	"outerColor": [0,79,206],
+	"innerColor": [1,42,108],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Flacazar"],
+    "spyNames": ["Samuil","Filipp","Nikodim","Matvey","Maksim","Ivan","Zakhar","Dasha","Maria","Daniil","Tasha","Valeriya"],
   }
 ]
