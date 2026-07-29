@@ -11,6 +11,13 @@ NationIcons/Aduma
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Alamjepara
+  rotate: false
+  xy: 1920, 310
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Andoland
   rotate: false
   xy: 556, 6
@@ -53,9 +60,16 @@ NationIcons/Ceraca
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Cuauhtlan
+NationIcons/Coralshore
   rotate: false
   xy: 968, 282
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Cuauhtlan
+  rotate: false
+  xy: 1104, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -69,7 +83,7 @@ NationIcons/Deco
   index: -1
 NationIcons/Dravenska
   rotate: false
-  xy: 1104, 282
+  xy: 1240, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -90,14 +104,14 @@ NationIcons/Fosjum
   index: -1
 NationIcons/Fosnauce
   rotate: false
-  xy: 1240, 282
+  xy: 1376, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Gethousia
   rotate: false
-  xy: 1376, 282
+  xy: 1512, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -118,14 +132,14 @@ NationIcons/Hakpano
   index: -1
 NationIcons/Hoshigawa
   rotate: false
-  xy: 1512, 282
+  xy: 1648, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Hyeonsang
   rotate: false
-  xy: 1648, 282
+  xy: 1784, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -139,7 +153,7 @@ NationIcons/Ibiba
   index: -1
 NationIcons/Iflaviel
   rotate: false
-  xy: 1784, 282
+  xy: 692, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -153,7 +167,7 @@ NationIcons/Jabinta
   index: -1
 NationIcons/Kanvara
   rotate: false
-  xy: 692, 6
+  xy: 830, 144
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -167,7 +181,7 @@ NationIcons/Kazmotamya
   index: -1
 NationIcons/Kogi
   rotate: false
-  xy: 830, 144
+  xy: 828, 8
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -181,21 +195,21 @@ NationIcons/Kukunesia
   index: -1
 NationIcons/Kuusivaara
   rotate: false
-  xy: 828, 8
+  xy: 966, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Mertangale
   rotate: false
-  xy: 966, 146
+  xy: 1102, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Molga
   rotate: false
-  xy: 1102, 146
+  xy: 1238, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -209,21 +223,21 @@ NationIcons/Mossburra
   index: -1
 NationIcons/Netolania
   rotate: false
-  xy: 1238, 146
+  xy: 1374, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Pelvald
   rotate: false
-  xy: 1374, 146
+  xy: 1510, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Qadira
   rotate: false
-  xy: 1510, 146
+  xy: 1646, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -237,21 +251,28 @@ NationIcons/Rodgradia
   index: -1
 NationIcons/The Rudens
   rotate: false
-  xy: 1646, 146
+  xy: 1782, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tianshangwu
   rotate: false
-  xy: 1782, 146
+  xy: 966, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tiszaliga
   rotate: false
-  xy: 966, 10
+  xy: 1102, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Uralia
+  rotate: false
+  xy: 1238, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
