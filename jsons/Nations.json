@@ -836,14 +836,14 @@
     "name": "Vallenorte", // Colombian
     "leaderName": "Javi",
 
-	"declaringWar": "History remembers conquerors, not those who stood in their path. Today, your people learn that lesson.",
-	"attacked": "So be it. We shall answer your declaration with overwhelming force.",
+	"declaringWar": "The time for words has passed. Steel and fire shall speak now.",
+	"attacked": "We did not seek this conflict, but we are ready for it.",
 	"defeated": "This is not the end... merely a pause in our story.",
-	"introduction": "Well met. I am Javi. Let us see if our interests align.",
+	"introduction": "I am Javi, ruler of Vallenorte. Let diplomacy guide our steps.",
 
 	"neutralHello": "Good day.",
 	"hateHello": "What is it!?",
-	"tradeRequest": "Our merchants see considerable potential in cooperation between our nations.",
+	"tradeRequest": "An exchange of resources benefits all rational participants. Shall we proceed?",
 
 	"outerColor": [0,79,206],
 	"innerColor": [1,42,108],
