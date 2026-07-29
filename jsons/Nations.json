@@ -848,7 +848,8 @@
 	"outerColor": [0,79,206],
 	"innerColor": [1,42,108],
     "uniqueName": "True Generic Civ",
-    "cities": ["Flacazar","Chapaquilla","Andaseca","Barrandó","Arilito","Cekesquera","Caucachiná","La Meno","Cayafuerte"],
+    "cities": ["Flacazar","Chapaquilla","Andaseca","Barrandó","Arilito","Cekesquera","Caucachiná","La Meno","Cayafuerte",
+	           "Moradas","Lorigar","Morón","Socolarcá","Barmina"],
     "spyNames": ["Samuil","Filipp","Nikodim","Matvey","Maksim","Ivan","Zakhar","Dasha","Maria","Daniil","Tasha","Valeriya"],
   }
 ]
