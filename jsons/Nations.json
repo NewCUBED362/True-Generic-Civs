@@ -869,7 +869,8 @@
 	"outerColor": [252,213,82],
 	"innerColor": [0,71,119],
     "uniqueName": "True Generic Civ",
-    "cities": ["Tarmi"],
+    "cities": ["Tarmi","Ampelomaida","Anari","Komopoli","Missorfu","Meliraia","Kastomno","Kaisadeia","Gialoniki","Tyrnarpia",
+	           "Katetras"],
     "spyNames": ["Aaron","Alejandro","Carlos","Emmanuel","Santiago","Matías","Victor","Thiago","Gabriel","Jerónimo"],
   }
 ]
