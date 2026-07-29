@@ -870,7 +870,8 @@
 	"innerColor": [0,71,119],
     "uniqueName": "True Generic Civ",
     "cities": ["Tarmi","Ampelomaida","Anari","Komopoli","Missorfu","Meliraia","Kastomno","Kaisadeia","Gialoniki","Tyrnarpia",
-	           "Katetras"],
+	           "Katetras","Achastiada","Amperini","Nearama","Ymismos","Tafka","Statero","Mytikleio","Ilioukaia","Taliro",
+	           "Flosos"],
     "spyNames": ["Aaron","Alejandro","Carlos","Emmanuel","Santiago","Matías","Victor","Thiago","Gabriel","Jerónimo"],
   }
 ]
