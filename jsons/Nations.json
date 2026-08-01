@@ -557,8 +557,8 @@
 	"hateHello": "Well?",
 	"tradeRequest": "Goodwill between nations is strengthened through generosity and fair exchange. Let us prosper together.",
 
-	"outerColor": [120,0,0],
-	"innerColor": [249,249,249],
+	"outerColor": [248,248,248],
+	"innerColor": [48,48,0],
     "uniqueName": "True Generic Civ",
     "cities": ["Jogow","Natanielburg","Youpolis","Qrutham","Wido","Hork","Fatol","Gragan","Istraudence","Pearhull","Mose",
 		       "Klanta","Khaver","Atoll","Zlesas","Xeah","Estrouis","Blobridge","Gediff","Dona","Urghgow","Gregorvale",
