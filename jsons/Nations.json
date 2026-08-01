@@ -891,7 +891,8 @@
 	"innerColor": [247,214,1],
     "uniqueName": "True Generic Civ",
     "cities": ["Kahnunrud","Miadoab","Hamanjan","Alidan","Minoonrud","Nazarapur","Herirmuj","Daranab","Sararmuj","Nishahreza",
-	           "Takakhs"],
+	           "Takakhs","Sardalmas","Ardaqqez","Meyaroud","Mahaj","Moharoun","Foutian","Saramin","Kosadan","Dorousar",
+	           "Zaboman"],
     "spyNames": ["Jason","Helena","Alexa","Cletus","Kassandra","Andres","Desdemona","Anthea","Aeneas","Leander"],
   }
 ]
