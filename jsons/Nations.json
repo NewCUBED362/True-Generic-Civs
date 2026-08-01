@@ -908,8 +908,8 @@
 	"hateHello": "Well?",
 	"tradeRequest": "The richest harvest is seldom gathered by one hand alone. Shall we sow together?",
 
-	"outerColor": [48,48,48],
-	"innerColor": [247,214,1],
+	"outerColor": [120,0,0],
+	"innerColor": [249,249,249],
     "uniqueName": "True Generic Civ",
     "cities": ["Colerey","Strafhurst","Wakedover","Millstone","Deminster","Rockville","Dershire","Appleham","Plainmark",
 	           "Haliriden","Susswell","Stafrey","Enmark","Sudborough","Lonster","Readdover","Elmney","Wickham","Tamby",
