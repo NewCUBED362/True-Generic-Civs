@@ -899,14 +899,14 @@
     "name": "Suntoria", // American
     "leaderName": "Catharine",
 
-	"declaringWar": "This conflict could have been avoided, had you shown better judgment.",
-	"attacked": "We believed you capable of better. Clearly, we were overly generous.",
-	"defeated": "History will remember your triumph. Whether it remembers your leadership quite so kindly remains to be seen.",
-	"introduction": "I am Catharine. It is refreshing to encounter a nation with such... untapped potential.",
+	"declaringWar": "Even the brightest stars are veiled by storm clouds, yet they are never extinguished.",
+	"attacked": "Peace is a delicate blossom. You have chosen instead to cultivate the thorn.",
+	"defeated": "Every autumn leaf returns to the earth, yet the tree remembers how to bloom. So too shall our spirit endure.",
+	"introduction": "Welcome. The rivers remember every civilization that has stood upon their banks. May ours leave gentler echoes than most.",
 
-	"neutralHello": "Hello...",
-	"hateHello": "...",
-	"tradeRequest": "Prosperity is best shared with those willing to learn. We trust this agreement will be educational.",
+	"neutralHello": "Good day.",
+	"hateHello": "Well?",
+	"tradeRequest": "The richest harvest is seldom gathered by one hand alone. Shall we sow together?",
 
 	"outerColor": [48,48,48],
 	"innerColor": [247,214,1],
