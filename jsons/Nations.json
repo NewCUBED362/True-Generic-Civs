@@ -911,7 +911,8 @@
 	"outerColor": [48,48,48],
 	"innerColor": [247,214,1],
     "uniqueName": "True Generic Civ",
-    "cities": ["Colerey"],
+    "cities": ["Colerey","Strafhurst","Wakedover","Millstone","Deminster","Rockville","Dershire","Appleham","Plainmark",
+	           "Haliriden","Susswell"],
     "spyNames": ["Hamed","Golshan","Saber","Siavush","Mehrab","Hajar","Sima","Azar","Minoo","Tara","Sanaz","Hadi","Feyz"],
   }
 ]
