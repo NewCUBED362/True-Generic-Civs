@@ -878,10 +878,10 @@
     "name": "Zarandistan", // Iranian
     "leaderName": "Ziba",
 
-	"declaringWar": "We truly hoped you would recognize your mistakes on your own. It is unfortunate that we must educate you by force.",
-	"attacked": "How disappointing. We had expected a more thoughtful approach from you.",
-	"defeated": "Our civilization falls today. We can only hope you prove a better steward of the future than your past has suggested.",
-	"introduction": "It is a pleasure to meet you. We always welcome the opportunity to guide younger nations toward greater achievements.",
+	"declaringWar": "This conflict could have been avoided, had you shown better judgment.",
+	"attacked": "We believed you capable of better. Clearly, we were overly generous.",
+	"defeated": "History will remember your triumph. Whether it remembers your leadership quite so kindly remains to be seen.",
+	"introduction": "I am Ziba. It is refreshing to encounter a nation with such... untapped potential.",
 
 	"neutralHello": "Hello...",
 	"hateHello": "...",
