@@ -221,23 +221,30 @@ NationIcons/Mossburra
   orig: 130, 130
   offset: 0, 0
   index: -1
-NationIcons/Netolania
+NationIcons/Mystralvia
   rotate: false
   xy: 1374, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Pelvald
+NationIcons/Netolania
   rotate: false
   xy: 1510, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/Qadira
+NationIcons/Pelvald
   rotate: false
   xy: 1646, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Qadira
+  rotate: false
+  xy: 1782, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -251,28 +258,49 @@ NationIcons/Rodgradia
   index: -1
 NationIcons/The Rudens
   rotate: false
-  xy: 1782, 146
+  xy: 966, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tianshangwu
   rotate: false
-  xy: 966, 10
+  xy: 1102, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tiszaliga
   rotate: false
-  xy: 1102, 10
+  xy: 1238, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Ulfrik
+  rotate: false
+  xy: 1374, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Uralia
   rotate: false
-  xy: 1238, 10
+  xy: 1510, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Vallenorte
+  rotate: false
+  xy: 1646, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Zarandistan
+  rotate: false
+  xy: 1782, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
