@@ -548,14 +548,14 @@
     "name": "Waril", // Random
     "leaderName": "Nataniel",
 
-	"declaringWar": "Even the brightest stars are veiled by storm clouds, yet they are never extinguished.",
-	"attacked": "Peace is a delicate blossom. You have chosen instead to cultivate the thorn.",
-	"defeated": "Every autumn leaf returns to the earth, yet the tree remembers how to bloom. So too shall our spirit endure.",
-	"introduction": "Welcome. The rivers remember every civilization that has stood upon their banks. May ours leave gentler echoes than most.",
+	"declaringWar": "Our patience has been tested, and our warnings ignored. We march with conviction and resolve.",
+	"attacked": "Faith has sustained us through darker days than these. We shall not falter now.",
+	"defeated": "Our dominion ends here, but our legacy shall not pass so easily into silence.",
+	"introduction": "May wisdom and righteousness guide this meeting. I am Nataniel, protector of Waril.",
 
 	"neutralHello": "Good day.",
 	"hateHello": "Well?",
-	"tradeRequest": "The richest harvest is seldom gathered by one hand alone. Shall we sow together?",
+	"tradeRequest": "Goodwill between nations is strengthened through generosity and fair exchange. Let us prosper together.",
 
 	"outerColor": [120,0,0],
 	"innerColor": [249,249,249],
