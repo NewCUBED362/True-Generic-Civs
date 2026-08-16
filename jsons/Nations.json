@@ -941,14 +941,14 @@
     "name": "Shangtai", // Chinese
     "leaderName": "Wu Chai",
 
-	"declaringWar": "Even the brightest stars are veiled by storm clouds, yet they are never extinguished.",
-	"attacked": "Peace is a delicate blossom. You have chosen instead to cultivate the thorn.",
-	"defeated": "Every autumn leaf returns to the earth, yet the tree remembers how to bloom. So too shall our spirit endure.",
-	"introduction": "Welcome. The rivers remember every civilization that has stood upon their banks. May ours leave gentler echoes than most.",
+	"declaringWar": "The age of your civilization ends today. Ours continues without interruption.",
+	"attacked": "You dare? Then your arrogance exceeds even my expectations.",
+	"defeated": "Empires rise, empires fall... but mediocrity has always endured.",
+	"introduction": "I am Wu Chai, ruler of Shangtai. Remember my name well, for history belongs to those who command it.",
 
-	"neutralHello": "Good day.",
-	"hateHello": "Well?",
-	"tradeRequest": "The richest harvest is seldom gathered by one hand alone. Shall we sow together?",
+	"neutralHello": "Hello.",
+	"hateHello": "What is it?",
+	"tradeRequest": "You should consider this offer carefully. Opportunities from us are not often repeated.",
 
 	"outerColor": [120,0,0],
 	"innerColor": [249,249,249],
