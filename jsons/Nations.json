@@ -936,5 +936,24 @@
 	           "Haliriden","Susswell","Stafrey","Enmark","Sudborough","Lonster","Readdover","Elmney","Wickham","Tamby",
 	           "Huntingding","Stafriden"],
     "spyNames": ["Cousin","Felix","Dennis","Edward","Prof. Rex","Eliza","Mary","Virginia","Scarlett","Barbara","Martie","Liberty","Brenton"],
+  },
+  {
+    "name": "Shangtai", // Chinese
+    "leaderName": "Wu Chai",
+
+	"declaringWar": "Even the brightest stars are veiled by storm clouds, yet they are never extinguished.",
+	"attacked": "Peace is a delicate blossom. You have chosen instead to cultivate the thorn.",
+	"defeated": "Every autumn leaf returns to the earth, yet the tree remembers how to bloom. So too shall our spirit endure.",
+	"introduction": "Welcome. The rivers remember every civilization that has stood upon their banks. May ours leave gentler echoes than most.",
+
+	"neutralHello": "Good day.",
+	"hateHello": "Well?",
+	"tradeRequest": "The richest harvest is seldom gathered by one hand alone. Shall we sow together?",
+
+	"outerColor": [120,0,0],
+	"innerColor": [249,249,249],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Qushui"],
+    "spyNames": ["Cousin","Felix","Dennis","Edward","Prof. Rex","Eliza","Mary","Virginia","Scarlett","Barbara","Martie","Liberty","Brenton"],
   }
 ]
