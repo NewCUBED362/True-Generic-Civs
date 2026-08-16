@@ -950,8 +950,8 @@
 	"hateHello": "What is it?",
 	"tradeRequest": "You should consider this offer carefully. Opportunities from us are not often repeated.",
 
-	"outerColor": [120,0,0],
-	"innerColor": [249,249,249],
+	"outerColor": [154,45,49],
+	"innerColor": [192,192,192],
     "uniqueName": "True Generic Civ",
     "cities": ["Qushui","Fengguan","Qingchun","Xianhai","Zhenhou","Zhoujiang","Shaotou","Dongqihar","Tongwei","Guangzhou","Shangtong",
 	           "Shanjiang","Qincheng","Tengjiang","Quqihar","Taijing","Dongliang","Shaoramay","Surao","Guigong","Jinging",
