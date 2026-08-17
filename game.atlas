@@ -1,306 +1,334 @@
 
 game.png
-size: 2048, 512
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Aduma
   rotate: false
-  xy: 4, 280
+  xy: 4, 828
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Alamjepara
   rotate: false
-  xy: 1920, 310
+  xy: 824, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Andoland
   rotate: false
-  xy: 556, 6
+  xy: 4, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Bedoro
   rotate: false
-  xy: 4, 142
+  xy: 4, 690
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Bulebua
   rotate: false
-  xy: 694, 144
+  xy: 142, 278
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Burgan
   rotate: false
-  xy: 142, 280
+  xy: 142, 828
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Busanya
   rotate: false
-  xy: 832, 282
+  xy: 280, 416
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Ceraca
   rotate: false
-  xy: 4, 4
+  xy: 4, 552
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Coralshore
   rotate: false
-  xy: 968, 282
+  xy: 418, 554
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Cordobalta
+  rotate: false
+  xy: 556, 692
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Cuauhtlan
   rotate: false
-  xy: 1104, 282
+  xy: 694, 830
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Deco
   rotate: false
-  xy: 142, 142
+  xy: 142, 690
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Dravenska
   rotate: false
-  xy: 1240, 282
+  xy: 4, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Eluroqi
   rotate: false
-  xy: 280, 280
+  xy: 280, 828
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Fosjum
   rotate: false
-  xy: 142, 4
+  xy: 4, 414
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Fosnauce
   rotate: false
-  xy: 1376, 282
+  xy: 830, 830
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Gethousia
   rotate: false
-  xy: 1512, 282
+  xy: 140, 140
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Gulan
   rotate: false
-  xy: 280, 142
+  xy: 142, 552
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Gwansan
+  rotate: false
+  xy: 140, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Hakpano
   rotate: false
-  xy: 418, 280
+  xy: 280, 690
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Hoshigawa
   rotate: false
-  xy: 1648, 282
+  xy: 278, 278
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Hyeonsang
   rotate: false
-  xy: 1784, 282
+  xy: 276, 142
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Ibiba
   rotate: false
-  xy: 280, 4
+  xy: 418, 828
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Iflaviel
   rotate: false
-  xy: 692, 6
+  xy: 276, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Jabinta
   rotate: false
-  xy: 418, 142
+  xy: 4, 276
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Kanvara
   rotate: false
-  xy: 830, 144
+  xy: 416, 416
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Kazmotamya
   rotate: false
-  xy: 556, 280
+  xy: 142, 414
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Kogi
   rotate: false
-  xy: 828, 8
+  xy: 414, 280
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Kukunesia
   rotate: false
-  xy: 418, 4
+  xy: 280, 552
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Kuusivaara
   rotate: false
-  xy: 966, 146
+  xy: 554, 554
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Mertangale
   rotate: false
-  xy: 1102, 146
+  xy: 552, 418
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Molga
   rotate: false
-  xy: 1238, 146
+  xy: 692, 692
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Mossburra
   rotate: false
-  xy: 556, 142
+  xy: 418, 690
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 NationIcons/Mystralvia
   rotate: false
-  xy: 1374, 146
+  xy: 690, 556
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Netolania
   rotate: false
-  xy: 1510, 146
+  xy: 828, 694
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Pelvald
   rotate: false
-  xy: 1646, 146
+  xy: 414, 144
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Qadira
   rotate: false
-  xy: 1782, 146
+  xy: 552, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Rodgradia
   rotate: false
-  xy: 694, 280
+  xy: 556, 828
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
+NationIcons/Shangtai
+  rotate: false
+  xy: 690, 420
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Suntoria
+  rotate: false
+  xy: 828, 558
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/The Rudens
   rotate: false
-  xy: 966, 10
+  xy: 412, 6
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tianshangwu
   rotate: false
-  xy: 1102, 10
+  xy: 550, 144
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Tiszaliga
   rotate: false
-  xy: 1238, 10
+  xy: 548, 8
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Ulfrik
   rotate: false
-  xy: 1374, 10
+  xy: 688, 282
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Uralia
   rotate: false
-  xy: 1510, 10
+  xy: 686, 146
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Vallenorte
   rotate: false
-  xy: 1646, 10
+  xy: 686, 10
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Zarandistan
   rotate: false
-  xy: 1782, 10
+  xy: 826, 420
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
