@@ -995,7 +995,8 @@
 	"outerColor": [40,40,40],
 	"innerColor": [0,255,0],
     "uniqueName": "True Generic Civ",
-    "cities": ["Galinca","Nadiz","Barcelés","Casteruña","Galilajara","Zaralma","Granalaga","Anada","Garón","Toletiva","Bitiva"],
+    "cities": ["Galinca","Nadiz","Barcelés","Casteruña","Galilajara","Zaralma","Granalaga","Anada","Garón","Toletiva","Bitiva",
+	           "Oricante","Casia","Vigona","Avinca","Raelelva","Zararona","Guamadura","Murona","Ávivila","Cartalle"],
     "spyNames": ["Kim","Park","Han","Na","Kong","Yu","Ahn","Da","Eun"],
 }
 ]
