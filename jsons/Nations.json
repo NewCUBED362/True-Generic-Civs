@@ -983,9 +983,9 @@
     "name": "Cordobalta", // Spanish 
     "leaderName": "Escolástica",
 
-	"declaringWar": "There are doors one opens deliberately, and doors one discovers were already open. War is rather like the latter.",
-	"attacked": "Ah. So this is what you decided the silence meant.",
-	"defeated": "So this is the ending. I had imagined something more conclusive.",
+	"declaringWar": "I would prefer that this conversation had ended differently. Unfortunately, preference has never been particularly influential.",
+	"attacked": "There is an old saying about striking a sleeping beast. I cannot remember the ending, but you are about to.",
+	"defeated": "You have won. I suppose that makes the things you said earlier considerably more important.",
 	"introduction": "I am Escolástica. Kingdoms are raised by stone and steel, yet they endure only through memory. Let us write a noble chapter together.",
 
 	"neutralHello": "Hello.",
