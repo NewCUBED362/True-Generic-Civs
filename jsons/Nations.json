@@ -962,14 +962,14 @@
     "name": "Gwansan", // Korean
     "leaderName": "Dong-geun",
 
-	"declaringWar": "The age of your civilization ends today. Ours continues without interruption.",
-	"attacked": "You dare? Then your arrogance exceeds even my expectations.",
-	"defeated": "Empires rise, empires fall... but mediocrity has always endured.",
-	"introduction": "I am Wu Chai, ruler of Shangtai. Remember my name well, for history belongs to those who command it.",
+	"declaringWar": "There are doors one opens deliberately, and doors one discovers were already open. War is rather like the latter.",
+	"attacked": "Ah. So this is what you decided the silence meant.",
+	"defeated": "So this is the ending. I had imagined something more conclusive.",
+	"introduction": "I am Dong-geun. You are a stranger. Between these two facts, something consequential will inevitably occur.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What is it?",
-	"tradeRequest": "You should consider this offer carefully. Opportunities from us are not often repeated.",
+	"tradeRequest": "We require grain. You require something else. This seems to be how civilization continues.",
 
 	"outerColor": [40,40,40],
 	"innerColor": [0,255,0],
