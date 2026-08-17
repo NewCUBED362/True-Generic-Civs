@@ -975,7 +975,8 @@
 	"innerColor": [192,192,192],
     "uniqueName": "True Generic Civ",
     "cities": ["Rahung","Manbaek","Wongeup","Mungcho","Yeocheon","Gyeongbaek","Cheohung","Kaegeup","Borsu","Dangnan","Samyeong",
-	           "Gwaseong","Nongye","Gyerhung","Woncho","Borcheon","Sarisu","Gyeongsan","Hoersu","Sariju","Uiju"],
+	           "Gwaseong","Nongye","Gyerhung","Woncho","Borcheon","Sarisu","Gyeongsan","Hoersu","Sariju","Uiju",
+	           "Mungdong","Wonjin","Gwangnan","Chunsan","Yangneung"],
     "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Mu"],
   }
 ]
