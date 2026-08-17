@@ -974,7 +974,7 @@
 	"outerColor": [154,45,49],
 	"innerColor": [192,192,192],
     "uniqueName": "True Generic Civ",
-    "cities": ["Rahung"],
+    "cities": ["Rahung","Manbaek","Wongeup","Mungcho","Yeocheon","Gyeongbaek","Cheohung","Kaegeup","Borsu","Dangnan","Samyeong"],
     "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Mu"],
   }
 ]
