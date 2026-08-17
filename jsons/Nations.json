@@ -992,8 +992,8 @@
 	"hateHello": "What is it?",
 	"tradeRequest": "We require grain. You require something else. This seems to be how civilization continues.",
 
-	"outerColor": [40,40,40],
-	"innerColor": [0,255,0],
+	"outerColor": [85,85,85],
+	"innerColor": [188,172,119],
     "uniqueName": "True Generic Civ",
     "cities": ["Galinca","Nadiz","Barcelés","Casteruña","Galilajara","Zaralma","Granalaga","Anada","Garón","Toletiva","Bitiva",
 	           "Oricante","Casia","Vigona","Avinca","Raelelva","Zararona","Guamadura","Murona","Ávivila","Cartalle",
