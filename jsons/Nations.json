@@ -957,5 +957,24 @@
 	           "Shanjiang","Qincheng","Tengjiang","Quqihar","Taijing","Dongliang","Shaoramay","Surao","Guigong","Jinging",
 	           "Danzou","Changrao","Xuanramay","Mianshan","Shangchun"],
     "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Mu"],
+  },
+  {
+    "name": "Gwansan", // Korean
+    "leaderName": "Dong-geun",
+
+	"declaringWar": "The age of your civilization ends today. Ours continues without interruption.",
+	"attacked": "You dare? Then your arrogance exceeds even my expectations.",
+	"defeated": "Empires rise, empires fall... but mediocrity has always endured.",
+	"introduction": "I am Wu Chai, ruler of Shangtai. Remember my name well, for history belongs to those who command it.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What is it?",
+	"tradeRequest": "You should consider this offer carefully. Opportunities from us are not often repeated.",
+
+	"outerColor": [154,45,49],
+	"innerColor": [192,192,192],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Rahung"],
+    "spyNames": ["Peishan","Yong","Jianping","Yanting","Zimo","Jing","Shihan","Guanting","Shuai","Tingting","Sheng","Mu"],
   }
 ]
