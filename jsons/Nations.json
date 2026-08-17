@@ -978,5 +978,24 @@
 	           "Gwaseong","Nongye","Gyerhung","Woncho","Borcheon","Sarisu","Gyeongsan","Hoersu","Sariju","Uiju",
 	           "Mungdong","Wonjin","Gwangnan","Chunsan","Yangneung"],
     "spyNames": ["Kim","Park","Han","Na","Kong","Yu","Ahn","Da","Eun"],
-  }
+  },
+  {
+    "name": "Cordobalta", // Spanish 
+    "leaderName": "Escolástica",
+
+	"declaringWar": "There are doors one opens deliberately, and doors one discovers were already open. War is rather like the latter.",
+	"attacked": "Ah. So this is what you decided the silence meant.",
+	"defeated": "So this is the ending. I had imagined something more conclusive.",
+	"introduction": "I am Escolástica. You are a stranger. Between these two facts, something consequential will inevitably occur.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What is it?",
+	"tradeRequest": "We require grain. You require something else. This seems to be how civilization continues.",
+
+	"outerColor": [40,40,40],
+	"innerColor": [0,255,0],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Galinca"],
+    "spyNames": ["Kim","Park","Han","Na","Kong","Yu","Ahn","Da","Eun"],
+}
 ]
