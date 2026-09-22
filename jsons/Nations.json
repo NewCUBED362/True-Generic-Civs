@@ -1004,10 +1004,10 @@
     "name": "Volterrazia", // Italian
     "leaderName": "Renato",
 
-	"declaringWar": "I would prefer that this conversation had ended differently. Unfortunately, preference has never been particularly influential.",
-	"attacked": "There is an old saying about striking a sleeping beast. I cannot remember the ending, but you are about to.",
-	"defeated": "You have won. I suppose that makes the things you said earlier considerably more important.",
-	"introduction": "I am Escolástica. Kingdoms are raised by stone and steel, yet they endure only through memory. Let us write a noble chapter together.",
+	"declaringWar": "The time for words has passed. Steel and fire shall speak now.",
+	"attacked": "Even in the face of aggression, Volterrazia will endure!",
+	"defeated": "You have bested us today. We concede, but not in despair.",
+	"introduction": "I am Renato, ruler of Volterrazia. Let diplomacy guide our steps.",
 
 	"neutralHello": "Hello.",
 	"hateHello": "What is it?",
