@@ -1034,8 +1034,8 @@
 	"hateHello": "Get out!",
 	"tradeRequest": "Gold glitters for a season; goodwill enriches generations. I offer both.",
 
-	"outerColor": [174,174,174],
-	"innerColor": [202,20,20],
+	"outerColor": [38,41,79],
+	"innerColor": [245,222,179],
     "uniqueName": "True Generic Civ",
     "cities": ["Lanni","Gouyourou","Chétibissinat","Magandoutchi","Gadama","Fandoutchi","Dahoua","Gawemey","Ifegmi","Diamia","Zilakam",
 	           "Guiga","Korosso","Balesso","Niachi","Borti","Maïngué","Gayasaoua","Diagorou","Bideras","Massinat",
