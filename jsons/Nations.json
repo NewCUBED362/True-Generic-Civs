@@ -1037,7 +1037,8 @@
 	"outerColor": [174,174,174],
 	"innerColor": [202,20,20],
     "uniqueName": "True Generic Civ",
-    "cities": ["Lanni","Gouyourou","Chétibissinat","Magandoutchi","Gadama","Fandoutchi","Dahoua","Gawemey","Ifegmi","Diamia","Zilakam"],
+    "cities": ["Lanni","Gouyourou","Chétibissinat","Magandoutchi","Gadama","Fandoutchi","Dahoua","Gawemey","Ifegmi","Diamia","Zilakam",
+	           "Guiga","Korosso","Balesso","Niachi","Borti","Maïngué","Gayasaoua","Diagorou","Bideras","Massinat"],
     "spyNames": ["Enrichetta","Artemio","Graziano","Orsola","Leonardo","Filiberto","Emma","Gabriella","Cristina","Mariella","Mattia","Bettino"],
   }
 ]
