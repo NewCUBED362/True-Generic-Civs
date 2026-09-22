@@ -1016,7 +1016,9 @@
 	"outerColor": [85,85,85],
 	"innerColor": [188,172,119],
     "uniqueName": "True Generic Civ",
-    "cities": ["Guinzio","Viacce","Brevorno","Trammare","Savorsala","Marania","Triegliano","Galigno","Civitalan","Pordersa"],
+    "cities": ["Guinzio","Viacce","Brevorno","Trammare","Savorsala","Marania","Triegliano","Galigno","Civitalan","Pordersa",
+	           "Ferravoli","Biscecenza","Sierano","Cremorra","Cininto","Mazagola","Giugno","Barlemini","Bitogliari","Ercomura",
+	           "Crotonia","Biscegliano","Civitanzio","Altale","Civiserta"],
     "spyNames": ["Alejandro","Carlos","Duarte","Hernando","Javier","Pancho","Santos","Benita","Dolores","Ignacia","Nevada","Yoana"],
   }
 ]
