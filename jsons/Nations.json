@@ -999,5 +999,24 @@
 	           "Oricante","Casia","Vigona","Avinca","Raelelva","Zararona","Guamadura","Murona","Ávivila","Cartalle",
 	           "Socante","Gracete","Leólencia","Bulla","Valelava"],
     "spyNames": ["Alejandro","Carlos","Duarte","Hernando","Javier","Pancho","Santos","Benita","Dolores","Ignacia","Nevada","Yoana"],
-}
+},
+{
+    "name": "Volterrazia", // Italian
+    "leaderName": "Renato",
+
+	"declaringWar": "I would prefer that this conversation had ended differently. Unfortunately, preference has never been particularly influential.",
+	"attacked": "There is an old saying about striking a sleeping beast. I cannot remember the ending, but you are about to.",
+	"defeated": "You have won. I suppose that makes the things you said earlier considerably more important.",
+	"introduction": "I am Escolástica. Kingdoms are raised by stone and steel, yet they endure only through memory. Let us write a noble chapter together.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What is it?",
+	"tradeRequest": "Gold glitters for a season; goodwill enriches generations. I offer both.",
+
+	"outerColor": [85,85,85],
+	"innerColor": [188,172,119],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Guinzio"],
+    "spyNames": ["Alejandro","Carlos","Duarte","Hernando","Javier","Pancho","Santos","Benita","Dolores","Ignacia","Nevada","Yoana"],
+  }
 ]
