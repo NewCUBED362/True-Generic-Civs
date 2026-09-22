@@ -999,8 +999,8 @@
 	           "Oricante","Casia","Vigona","Avinca","Raelelva","Zararona","Guamadura","Murona","Ávivila","Cartalle",
 	           "Socante","Gracete","Leólencia","Bulla","Valelava"],
     "spyNames": ["Alejandro","Carlos","Duarte","Hernando","Javier","Pancho","Santos","Benita","Dolores","Ignacia","Nevada","Yoana"],
-},
-{
+  },
+  {
     "name": "Volterrazia", // Italian
     "leaderName": "Renato",
 
@@ -1019,6 +1019,25 @@
     "cities": ["Guinzio","Viacce","Brevorno","Trammare","Savorsala","Marania","Triegliano","Galigno","Civitalan","Pordersa",
 	           "Ferravoli","Biscecenza","Sierano","Cremorra","Cininto","Mazagola","Giugno","Barlemini","Bitogliari","Ercomura",
 	           "Crotonia","Biscegliano","Civitanzio","Altale","Civiserta"],
+    "spyNames": ["Enrichetta","Artemio","Graziano","Orsola","Leonardo","Filiberto","Emma","Gabriella","Cristina","Mariella","Mattia","Bettino"],
+  },
+  {
+    "name": "Kintara", // Nigerien
+    "leaderName": "Umar",
+
+	"declaringWar": "The time for words has passed. Steel and fire shall speak now.",
+	"attacked": "Even in the face of aggression, Volterrazia will endure!",
+	"defeated": "You have bested us today. We concede, but not in despair.",
+	"introduction": "I am Renato, ruler of Volterrazia. Let diplomacy guide our steps.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What is it?",
+	"tradeRequest": "Gold glitters for a season; goodwill enriches generations. I offer both.",
+
+	"outerColor": [174,174,174],
+	"innerColor": [202,20,20],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Lanni"],
     "spyNames": ["Enrichetta","Artemio","Graziano","Orsola","Leonardo","Filiberto","Emma","Gabriella","Cristina","Mariella","Mattia","Bettino"],
   }
 ]
