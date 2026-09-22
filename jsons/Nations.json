@@ -1013,8 +1013,8 @@
 	"hateHello": "What is it?",
 	"tradeRequest": "Gold glitters for a season; goodwill enriches generations. I offer both.",
 
-	"outerColor": [85,85,85],
-	"innerColor": [188,172,119],
+	"outerColor": [174,174,174],
+	"innerColor": [202,20,20],
     "uniqueName": "True Generic Civ",
     "cities": ["Guinzio","Viacce","Brevorno","Trammare","Savorsala","Marania","Triegliano","Galigno","Civitalan","Pordersa",
 	           "Ferravoli","Biscecenza","Sierano","Cremorra","Cininto","Mazagola","Giugno","Barlemini","Bitogliari","Ercomura",
