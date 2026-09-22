@@ -1030,15 +1030,16 @@
 	"defeated": "You have bested us today. We concede, but not in despair.",
 	"introduction": "I am Renato, ruler of Volterrazia. Let diplomacy guide our steps.",
 
-	"neutralHello": "Hello.",
-	"hateHello": "What is it?",
+	"neutralHello": "Greetings.",
+	"hateHello": "Get out!",
 	"tradeRequest": "Gold glitters for a season; goodwill enriches generations. I offer both.",
 
 	"outerColor": [174,174,174],
 	"innerColor": [202,20,20],
     "uniqueName": "True Generic Civ",
     "cities": ["Lanni","Gouyourou","Chétibissinat","Magandoutchi","Gadama","Fandoutchi","Dahoua","Gawemey","Ifegmi","Diamia","Zilakam",
-	           "Guiga","Korosso","Balesso","Niachi","Borti","Maïngué","Gayasaoua","Diagorou","Bideras","Massinat"],
+	           "Guiga","Korosso","Balesso","Niachi","Borti","Maïngué","Gayasaoua","Diagorou","Bideras","Massinat",
+	           "Dogotameye","Goune","Lamomia","Fatchi","Akounat"],
     "spyNames": ["Enrichetta","Artemio","Graziano","Orsola","Leonardo","Filiberto","Emma","Gabriella","Cristina","Mariella","Mattia","Bettino"],
   }
 ]
