@@ -1025,10 +1025,10 @@
     "name": "Kintara", // Nigerien
     "leaderName": "Umar",
 
-	"declaringWar": "The time for words has passed. Steel and fire shall speak now.",
-	"attacked": "Even in the face of aggression, Volterrazia will endure!",
-	"defeated": "You have bested us today. We concede, but not in despair.",
-	"introduction": "I am Renato, ruler of Volterrazia. Let diplomacy guide our steps.",
+	"declaringWar": "We seek no quarrel, but your arrogance leaves us no alternative.",
+	"attacked": "So it begins... You have chosen the path of blood. We will not falter!",
+	"defeated": "This is not the end... merely a pause in our story.",
+	"introduction": "I am Umar of Kintara. May our nations find friendship—or, failing that, clarity in conflict.",
 
 	"neutralHello": "Greetings.",
 	"hateHello": "Get out!",
