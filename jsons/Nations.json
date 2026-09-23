@@ -1125,5 +1125,24 @@
 	           "Cologneux","Antomasse","Angougueux","Nanfort","Vinmasse","Soivin","Carcalême","Draguilliers","Valenris","Chatoise",
 	           "Courfort","Vitrolun","Valenlême","Alensir","Soibonne"],
     "spyNames": ["Jean-Paul","Martine","Lucien","François","Augustine","Monsieur X","Dr. Dupont","Vipère","Yvette","Renard"],
+  },
+  {
+    "name": "Talonia", // Israeli
+    "leaderName": "Ronen",
+
+	"declaringWar": "I had hoped our stories would rhyme in harmony. Instead, they shall clash like thunder beneath a storm-dark sky.",
+	"attacked": "You have mistaken our quiet for surrender. Silence is often the companion of resolve.",
+	"defeated": "The stage grows quiet, our final act complete. May those who follow perform with equal grace.",
+	"introduction": "Come, friend. Sit for a while at the crossroads of destiny, where every conversation may alter the course of generations.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "Get out!",
+	"tradeRequest": "Let this accord be another thread woven into the tapestry that binds our peoples.",
+
+	"outerColor": [41,59,149],
+	"innerColor": [255,255,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Arayim"],
+    "spyNames": ["Jean-Paul","Martine","Lucien","François","Augustine","Monsieur X","Dr. Dupont","Vipère","Yvette","Renard"],
   }
 ]
