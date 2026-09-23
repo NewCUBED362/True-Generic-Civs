@@ -1076,8 +1076,8 @@
 	"hateHello": "Get out!",
 	"tradeRequest": "Let this accord be another thread woven into the tapestry that binds our peoples.",
 
-	"outerColor": [245,222,179],
-	"innerColor": [38,41,79],
+	"outerColor": [41,59,149],
+	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Fréssons","Gorac","Sauyonne","Frérac","Champisier","Puçon","Épinesse","Bouvin","Beaullac","Marimont",
 	           "Cologneux","Antomasse","Angougueux","Nanfort","Vinmasse","Soivin","Carcalême","Draguilliers","Valenris","Chatoise",
