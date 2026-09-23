@@ -1143,7 +1143,8 @@
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Arayim","Kafr Sakhnana","She'im","Hodakim","Nazam","Qalakhi","Tarshelon","Sabion","Nahion","Tikvalim",
-	           "Dimawe","Or Ofed","Beit Rehalim","Neshalim","Ra'am","Rehakhi","Holud","Migdin","Umm Hade","Ashkit"],
+	           "Dimawe","Or Ofed","Beit Rehalim","Neshalim","Ra'am","Rehakhi","Holud","Migdin","Umm Hade","Ashkit",
+	           "Beit Eilalem","Bnei Ared","Beit Arra","Ofivot","Yonivot"],
     "spyNames": ["Jean-Paul","Martine","Lucien","François","Augustine","Monsieur X","Dr. Dupont","Vipère","Yvette","Renard"],
   }
 ]
