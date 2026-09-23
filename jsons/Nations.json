@@ -579,8 +579,8 @@
 	"hateHello": "Get out!",
 	"tradeRequest": "I have come to you with a potential agreement.",
 
-	"outerColor": [245,222,179],
-	"innerColor": [38,41,79],
+	"outerColor": [202,20,20],
+	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Prarc","Awodon","Edrens","Yharc","Osahull","Egoridge","Ejury","Manbu","Veigh","Eahbert","Isonphia",
 	           "Udando","Yia","Manta","Oreton","Olnwell","Ylouis","Izlane","Cago","Elesburg","Osegas",
