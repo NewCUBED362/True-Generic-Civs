@@ -1130,14 +1130,14 @@
     "name": "Talonia", // Israeli
     "leaderName": "Ronen",
 
-	"declaringWar": "I had hoped our stories would rhyme in harmony. Instead, they shall clash like thunder beneath a storm-dark sky.",
-	"attacked": "You have mistaken our quiet for surrender. Silence is often the companion of resolve.",
-	"defeated": "The stage grows quiet, our final act complete. May those who follow perform with equal grace.",
-	"introduction": "Come, friend. Sit for a while at the crossroads of destiny, where every conversation may alter the course of generations.",
+	"declaringWar": "We have grown tired of you. Prepare for war.",
+	"attacked": "Very well. This will not be forgiven.",
+	"defeated": "We have been defeated. Talonia returns to dust...",
+	"introduction": "Welcome, I am Ronen of Talonia. May we remain at peace.",
 
-	"neutralHello": "Greetings.",
-	"hateHello": "Get out!",
-	"tradeRequest": "Let this accord be another thread woven into the tapestry that binds our peoples.",
+	"neutralHello": "How are you?",
+	"hateHello": "What?",
+	"tradeRequest": "I have come to you with a potential agreement.",
 
 	"outerColor": [41,59,149],
 	"innerColor": [255,255,255],
