@@ -1080,7 +1080,8 @@
 	"innerColor": [38,41,79],
     "uniqueName": "True Generic Civ",
     "cities": ["Fréssons","Gorac","Sauyonne","Frérac","Champisier","Puçon","Épinesse","Bouvin","Beaullac","Marimont",
-	           "Cologneux","Antomasse","Angougueux","Nanfort","Vinmasse","Soivin","Carcalême","Draguilliers","Valenris","Chatoise"],
+	           "Cologneux","Antomasse","Angougueux","Nanfort","Vinmasse","Soivin","Carcalême","Draguilliers","Valenris","Chatoise",
+	           "Courfort","Vitrolun","Valenlême","Alensir","Soibonne"],
     "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
   }
 ]
