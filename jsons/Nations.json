@@ -1058,7 +1058,7 @@
 	"outerColor": [38,41,79],
 	"innerColor": [245,222,179],
     "uniqueName": "True Generic Civ",
-    "cities": ["Schwarzenfurt"],
+    "cities": ["Schwarzenfurt","Osterberg","Freibüren","Gudennau","Freigeismar","Delmenkastel","Grossenlingen","Ennehöring","Adelswald","Freinow"],
     "spyNames": ["Abdou","Moussa","Ibrahim","Mahamadou","Oumarou","Amadou","Mariama","Hadiza","Haoua","Amina"],
   }
 ]
