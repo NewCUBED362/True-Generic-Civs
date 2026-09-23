@@ -1046,14 +1046,14 @@
     "name": "Grünfelsland", // German
     "leaderName": "Jasmin",
 
-	"declaringWar": "We seek no quarrel, but your arrogance leaves us no alternative.",
-	"attacked": "So it begins... You have chosen the path of blood. We will not falter!",
-	"defeated": "This is not the end... merely a pause in our story.",
-	"introduction": "I am Umar of Kintara. May our nations find friendship—or, failing that, clarity in conflict.",
+	"declaringWar": "We truly hoped you would recognize your mistakes on your own. It is unfortunate that we must educate you by force.",
+	"attacked": "You surprise us. Not because you attacked, but because you believed it might succeed.",
+	"defeated": "Well done. Even improbable outcomes occur from time to time.",
+	"introduction": "Welcome. We have heard much about your people. I do hope the stories have exaggerated your shortcomings.",
 
 	"neutralHello": "Greetings.",
 	"hateHello": "Get out!",
-	"tradeRequest": "Generous Grünfelsland makes you this offer.",
+	"tradeRequest": "We are willing to overlook previous misunderstandings in the interest of improving your circumstances.",
 
 	"outerColor": [38,41,79],
 	"innerColor": [245,222,179],
