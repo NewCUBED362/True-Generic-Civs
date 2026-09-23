@@ -507,7 +507,7 @@
 	// Polytopia Name Civs
   {
     "name": "Rema", // Imperius culture
-    "leaderName": "Olina Agenirevna",
+    "leaderName": "Tedo",
 
 	"declaringWar": "You leave us no choice. War it must be.",
 	"attacked": "Very well, this shall not be forgotten.",
@@ -522,8 +522,9 @@
 	"innerColor": [116, 163, 243],
     "uniqueName": "True Generic Civ",
     "cities": ["Rema","More","Ipte","Sumlopite","Pinu","Maromanu","Icaica","Summa","Nure","Lusteres",
-	           "Dolo","Romusmus","Nuro","Lusdoip","Cama","Resre","Muste","Lolo","Camus","Rero"],
-    "spyNames": ["Ivachy","Alechina","Senina","Olaitra","Dedeva","Vlechov","Vlela","Pachia","Necheva"],
+	           "Dolo","Romusmus","Nuro","Lusdoip","Cama","Resre","Muste","Lolo","Camus","Rero",
+	           "Lorelo","Cateica","Relo","Momusro","Iprore"],
+    "spyNames": ["Remama","Mopi","Icate","Sumipte","Pimusres","Maropi","Icado","Romalus","Nures","Lodomo"],
   },
 	// Fantasy Names Generator Civs
   {
