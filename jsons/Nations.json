@@ -484,6 +484,26 @@
 		       "Finnsberg","Port Simon","Richmont","Calasgow","New Romale","Certon","Rafville","Midas"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
+    "name": "Fopala", // Random
+    "leaderName": "Deomak",
+
+	"declaringWar": "We have grown tired of you. Prepare for war.",
+	"attacked": "Very well. This will not be forgiven.",
+	"defeated": "We have been defeated. Fopala returns to dust...",
+	"introduction": "Welcome, I am Deomak of Fopala. May we remain at peace.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "Get out!",
+	"tradeRequest": "I have come to you with a potential agreement.",
+
+	"outerColor": [202,20,20],
+	"innerColor": [255,255,255],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Fopala","Surlobi","Cucoma","Tolo","Veodus","Zoberia","Asil","Rusuwa","Eteoler","Vubent","Fertum",
+	           "Buneru","Kelo","Itleom","Simhoba","Berjoso","Aketeo","Didope","Rehasuk","Toud","Vubon",
+	           "Datab","Utur","Soguco","Gus","Polebesa"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
+  },
 	// Fantasy Names Generator Civs
   {
     "name": "Gethousia", // Random
