@@ -1067,14 +1067,14 @@
     "name": "Belvoiren", // French
     "leaderName": "Pierrot",
 
-	"declaringWar": "We truly hoped you would recognize your mistakes on your own. It is unfortunate that we must educate you by force.",
-	"attacked": "You surprise us. Not because you attacked, but because you believed it might succeed.",
-	"defeated": "Well done. Even improbable outcomes occur from time to time.",
-	"introduction": "Welcome. We have heard much about your people. I do hope the stories have exaggerated your shortcomings.",
+	"declaringWar": "I had hoped our stories would rhyme in harmony. Instead, they shall clash like thunder beneath a storm-dark sky.",
+	"attacked": "You have mistaken our quiet for surrender. Silence is often the companion of resolve.",
+	"defeated": "The stage grows quiet, our final act complete. May those who follow perform with equal grace.",
+	"introduction": "Come, friend. Sit for a while at the crossroads of destiny, where every conversation may alter the course of generations.",
 
 	"neutralHello": "Greetings.",
 	"hateHello": "Get out!",
-	"tradeRequest": "We are willing to overlook previous misunderstandings in the interest of improving your circumstances.",
+	"tradeRequest": "Let this accord be another thread woven into the tapestry that binds our peoples.",
 
 	"outerColor": [245,222,179],
 	"innerColor": [38,41,79],
