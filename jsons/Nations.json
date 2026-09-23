@@ -518,8 +518,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "Would you be interested in a trade agreement?",
 
-	"outerColor": [125, 236, 227],
-	"innerColor": [116, 163, 243],
+	"outerColor": [0,0,255],
+	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
     "cities": ["Rema","More","Ipte","Sumlopite","Pinu","Maromanu","Icaica","Summa","Nure","Lusteres",
 	           "Dolo","Romusmus","Nuro","Lusdoip","Cama","Resre","Muste","Lolo","Camus","Rero",
