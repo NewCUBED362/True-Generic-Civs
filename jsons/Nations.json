@@ -1055,12 +1055,12 @@
 	"hateHello": "Get out!",
 	"tradeRequest": "We are willing to overlook previous misunderstandings in the interest of improving your circumstances.",
 
-	"outerColor": [38,41,79],
-	"innerColor": [245,222,179],
+	"outerColor": [245,222,179],
+	"innerColor": [38,41,79],
     "uniqueName": "True Generic Civ",
     "cities": ["Schwarzenfurt","Osterberg","Freibüren","Gudennau","Freigeismar","Delmenkastel","Grossenlingen","Ennehöring","Adelswald","Freinow",
 	           "Hambeck","Hallenbeuren","Pfullenbüren","Grünhude","Plettending","Lüdinghan","Tangernow","Drolszach","Ummerfurt","Waldhan",
 	           "Stralbach","Hamholder","Lahnheim","Eibenkau","Boizenscheid","Neunfingen","Immenstein","Clauberg"],
-    "spyNames": ["Abdou","Moussa","Ibrahim","Mahamadou","Oumarou","Amadou","Mariama","Hadiza","Haoua","Amina"],
+    "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
   }
 ]
