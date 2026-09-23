@@ -583,7 +583,8 @@
 	"innerColor": [38,41,79],
     "uniqueName": "True Generic Civ",
     "cities": ["Prarc","Awodon","Edrens","Yharc","Osahull","Egoridge","Ejury","Manbu","Veigh","Eahbert","Isonphia",
-	           "Udando","Yia","Manta","Oreton","Olnwell","Ylouis","Izlane","Cago","Elesburg","Osegas"],
+	           "Udando","Yia","Manta","Oreton","Olnwell","Ylouis","Izlane","Cago","Elesburg","Osegas",
+	           "Zathe","Blathe","Moria","Ouverdence","Oniomond"],
     "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
   },
   {
