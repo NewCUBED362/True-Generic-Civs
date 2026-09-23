@@ -1041,5 +1041,24 @@
 	           "Guiga","Korosso","Balesso","Niachi","Borti","Maïngué","Gayasaoua","Diagorou","Bideras","Massinat",
 	           "Dogotameye","Goune","Lamomia","Fatchi","Akounat"],
     "spyNames": ["Abdou","Moussa","Ibrahim","Mahamadou","Oumarou","Amadou","Mariama","Hadiza","Haoua","Amina"],
+  },
+  {
+    "name": "Grünfelsland", // German
+    "leaderName": "Jasmin",
+
+	"declaringWar": "We seek no quarrel, but your arrogance leaves us no alternative.",
+	"attacked": "So it begins... You have chosen the path of blood. We will not falter!",
+	"defeated": "This is not the end... merely a pause in our story.",
+	"introduction": "I am Umar of Kintara. May our nations find friendship—or, failing that, clarity in conflict.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "Get out!",
+	"tradeRequest": "Generous Grünfelsland makes you this offer.",
+
+	"outerColor": [38,41,79],
+	"innerColor": [245,222,179],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Schwarzenfurt"],
+    "spyNames": ["Abdou","Moussa","Ibrahim","Mahamadou","Oumarou","Amadou","Mariama","Hadiza","Haoua","Amina"],
   }
 ]
