@@ -504,6 +504,27 @@
 	           "Datab","Utur","Soguco","Gus","Polebesa"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
+	// Polytopia Name Civs
+  {
+    "name": "Rema", // Imperius culture
+    "leaderName": "Olina Agenirevna",
+
+	"declaringWar": "You leave us no choice. War it must be.",
+	"attacked": "Very well, this shall not be forgotten.",
+	"defeated": "It is over. Perhaps now I shall have peace, at last.",
+	"introduction": "We are pleased to meet you.",
+
+	"neutralHello": "Hello.",
+	"hateHello": "What?",
+	"tradeRequest": "Would you be interested in a trade agreement?",
+
+	"outerColor": [125, 236, 227],
+	"innerColor": [116, 163, 243],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Rema","More","Ipte","Sumlopite","Pinu","Maromanu","Icaica","Summa","Nure","Lusteres",
+	           "Dolo","Romusmus","Nuro","Lusdoip","Cama","Resre","Muste","Lolo","Camus","Rero"],
+    "spyNames": ["Ivachy","Alechina","Senina","Olaitra","Dedeva","Vlechov","Vlela","Pachia","Necheva"],
+  },
 	// Fantasy Names Generator Civs
   {
     "name": "Gethousia", // Random
