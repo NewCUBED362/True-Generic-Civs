@@ -1059,7 +1059,8 @@
 	"innerColor": [245,222,179],
     "uniqueName": "True Generic Civ",
     "cities": ["Schwarzenfurt","Osterberg","Freibüren","Gudennau","Freigeismar","Delmenkastel","Grossenlingen","Ennehöring","Adelswald","Freinow",
-	           "Hambeck","Hallenbeuren","Pfullenbüren","Grünhude","Plettending","Lüdinghan","Tangernow","Drolszach","Ummerfurt","Waldhan"],
+	           "Hambeck","Hallenbeuren","Pfullenbüren","Grünhude","Plettending","Lüdinghan","Tangernow","Drolszach","Ummerfurt","Waldhan",
+	           "Stralbach","Hamholder","Lahnheim","Eibenkau","Boizenscheid","Neunfingen","Immenstein","Clauberg"],
     "spyNames": ["Abdou","Moussa","Ibrahim","Mahamadou","Oumarou","Amadou","Mariama","Hadiza","Haoua","Amina"],
   }
 ]
