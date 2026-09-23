@@ -1062,5 +1062,24 @@
 	           "Hambeck","Hallenbeuren","Pfullenbüren","Grünhude","Plettending","Lüdinghan","Tangernow","Drolszach","Ummerfurt","Waldhan",
 	           "Stralbach","Hamholder","Lahnheim","Eibenkau","Boizenscheid","Neunfingen","Immenstein","Clauberg"],
     "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
+  },
+  {
+    "name": "Belvoiren", // French
+    "leaderName": "Pierrot",
+
+	"declaringWar": "We truly hoped you would recognize your mistakes on your own. It is unfortunate that we must educate you by force.",
+	"attacked": "You surprise us. Not because you attacked, but because you believed it might succeed.",
+	"defeated": "Well done. Even improbable outcomes occur from time to time.",
+	"introduction": "Welcome. We have heard much about your people. I do hope the stories have exaggerated your shortcomings.",
+
+	"neutralHello": "Greetings.",
+	"hateHello": "Get out!",
+	"tradeRequest": "We are willing to overlook previous misunderstandings in the interest of improving your circumstances.",
+
+	"outerColor": [245,222,179],
+	"innerColor": [38,41,79],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Fréssons"],
+    "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
   }
 ]
