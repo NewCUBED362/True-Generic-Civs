@@ -570,14 +570,14 @@
     "name": "Boshoaqua", // Random
     "leaderName": "Grod",
 
-	"declaringWar": "We truly hoped you would recognize your mistakes on your own. It is unfortunate that we must educate you by force.",
-	"attacked": "You surprise us. Not because you attacked, but because you believed it might succeed.",
-	"defeated": "Well done. Even improbable outcomes occur from time to time.",
-	"introduction": "Welcome. We have heard much about your people. I do hope the stories have exaggerated your shortcomings.",
+	"declaringWar": "We have grown tired of you. Prepare for war.",
+	"attacked": "Very well. This will not be forgiven.",
+	"defeated": "We have been defeated. Boshoaqua returns to dust...",
+	"introduction": "Welcome, I am Grod of Boshoaqua. May we remain at peace.",
 
 	"neutralHello": "Greetings.",
 	"hateHello": "Get out!",
-	"tradeRequest": "We are willing to overlook previous misunderstandings in the interest of improving your circumstances.",
+	"tradeRequest": "I have come to you with a potential agreement.",
 
 	"outerColor": [245,222,179],
 	"innerColor": [38,41,79],
@@ -585,7 +585,7 @@
     "cities": ["Prarc","Awodon","Edrens","Yharc","Osahull","Egoridge","Ejury","Manbu","Veigh","Eahbert","Isonphia",
 	           "Udando","Yia","Manta","Oreton","Olnwell","Ylouis","Izlane","Cago","Elesburg","Osegas",
 	           "Zathe","Blathe","Moria","Ouverdence","Oniomond"],
-    "spyNames": ["Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"],
+    "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
   {
     "name": "Hyeonsang", // Korean
