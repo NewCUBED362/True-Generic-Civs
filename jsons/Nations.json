@@ -1161,8 +1161,8 @@
 	"hateHello": "What?",
 	"tradeRequest": "I have come to you with a potential agreement.",
 
-	"outerColor": [41,59,149],
-	"innerColor": [255,255,255],
+	"outerColor": [212,225,232],
+	"innerColor": [0,0,0],
     "uniqueName": "True Generic Civ",
     "cities": ["Arayim","Kafr Sakhnana","She'im","Hodakim","Nazam","Qalakhi","Tarshelon","Sabion","Nahion","Tikvalim",
 	           "Dimawe","Or Ofed","Beit Rehalim","Neshalim","Ra'am","Rehakhi","Holud","Migdin","Umm Hade","Ashkit",
