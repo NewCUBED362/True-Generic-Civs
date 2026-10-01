@@ -517,10 +517,10 @@
 	"hateHello": "Get out!",
 	"tradeRequest": "I have come to you with a potential agreement.",
 
-	"outerColor": [202,20,20],
+	"outerColor": [20,20,178],
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Capital"],
+    "cities": ["Kepika","Belornoye","Dakolinoe","Ivanevo","Kalskgorod"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
 	// Polytopia Name Civs
