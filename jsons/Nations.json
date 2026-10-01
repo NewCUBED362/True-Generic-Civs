@@ -520,7 +520,7 @@
 	"outerColor": [20,20,178],
 	"innerColor": [255,255,255],
     "uniqueName": "True Generic Civ",
-    "cities": ["Kepika","Belornoye","Dakolinoe","Ivanevo","Kalskgorod"],
+    "cities": ["Novtsy","Volkensk","Sukhburg","Vesetsk","Severgorod","Severniki","Ilinovka","Vesichi","Verenka","Polinoe"],
     "spyNames": ["John","Jane","Benjamin","Eve","Muhammad","Farah","Chen","Mei","Jake","Rook","Munster"],
   },
 	// Polytopia Name Civs
