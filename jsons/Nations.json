@@ -1204,7 +1204,7 @@
 	"outerColor": [132,167,157],
 	"innerColor": [0,0,0],
     "uniqueName": "True Generic Civ",
-    "cities": ["Capital","City","Town"],
+    "cities": ["Tivosa","Acirugia","Tulvano","Modonia","Giurtici","Cerilbia","Lezia","Mosena","Rhobasso","Teragnano"],
     "spyNames": ["David","Daniel","Eitan","Noam","Yonatan","Omer","Yael","Tamar","Noa","Maya","Shira","Talia"],
   }
 ]
