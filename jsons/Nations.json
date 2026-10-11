@@ -1204,7 +1204,8 @@
 	"outerColor": [132,167,157],
 	"innerColor": [0,0,0],
     "uniqueName": "True Generic Civ",
-    "cities": ["Tivosa","Acirugia","Tulvano","Modonia","Giurtici","Cerilbia","Lezia","Mosena","Rhobasso","Teragnano"],
+    "cities": ["Tivosa","Acirugia","Tulvano","Modonia","Giurtici","Cerilbia","Lezia","Mosena","Rhobasso","Teragnano",
+	           "Pordevento","Ancorni","Lamelia","Potegnola","Molfelermo","Agrimmare","Rovinice","Legnaples","Caltallegno","Faesenza"],
     "spyNames": ["David","Daniel","Eitan","Noam","Yonatan","Omer","Yael","Tamar","Noa","Maya","Shira","Talia"],
   }
 ]
