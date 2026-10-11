@@ -1201,7 +1201,7 @@
 	"hateHello": "What?",
 	"tradeRequest": "I have come to you with a potential agreement.",
 
-	"outerColor": [212,225,232],
+	"outerColor": [132,167,157],
 	"innerColor": [0,0,0],
     "uniqueName": "True Generic Civ",
     "cities": ["Capital","City","Town"],
