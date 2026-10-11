@@ -1187,5 +1187,24 @@
 	           "Dimawe","Or Ofed","Beit Rehalim","Neshalim","Ra'am","Rehakhi","Holud","Migdin","Umm Hade","Ashkit",
 	           "Beit Eilalem","Bnei Ared","Beit Arra","Ofivot","Yonivot"],
     "spyNames": ["David","Daniel","Eitan","Noam","Yonatan","Omer","Yael","Tamar","Noa","Maya","Shira","Talia"],
+  },
+  {
+    "name": "Luminara", // Italian
+    "leaderName": "Sofia",
+
+	"declaringWar": "We have grown tired of you. Prepare for war.",
+	"attacked": "Very well. This will not be forgiven.",
+	"defeated": "We have been defeated. Luminara returns to dust...",
+	"introduction": "Welcome, I am Sofia of Luminara. May we remain at peace.",
+
+	"neutralHello": "How are you?",
+	"hateHello": "What?",
+	"tradeRequest": "I have come to you with a potential agreement.",
+
+	"outerColor": [212,225,232],
+	"innerColor": [0,0,0],
+    "uniqueName": "True Generic Civ",
+    "cities": ["Capital","City","Town"],
+    "spyNames": ["David","Daniel","Eitan","Noam","Yonatan","Omer","Yael","Tamar","Noa","Maya","Shira","Talia"],
   }
 ]
